@@ -1,0 +1,10 @@
+{
+  "enableSkillCommands": true,
+  "packages": [
+    "npm:pi-mcp-adapter",
+    "npm:@tintinweb/pi-subagents",
+    "npm:pi-simplify",
+    "npm:pi-caveman",
+    "npm:pi-prompt-template-model"
+  ]
+}

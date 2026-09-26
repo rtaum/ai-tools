@@ -1,0 +1,14 @@
+- generic [ref=f2e2]:
+  - separator [ref=f2e3]
+  - iframe [ref=f2e8]:
+    - generic [ref=f3e2]:
+      - generic [ref=f3e3]:
+        - checkbox "I'm not a robot" [ref=f3e7]
+        - generic [aria-hidden] [ref=f3e11]: I'm not a robot
+      - generic [ref=f3e12]: reCAPTCHA
+  - separator [ref=f2e9]
+  - generic [ref=f2e10]:
+    - text: About this page Our systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot.
+    - link "Why did this happen?" [ref=f2e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f2e12]: "IP address: 2a02:a31a:a492:b000:5951:4b97:bd75:1088Time: 2026-09-25T11:00:40ZURL: https://www.google.com/search?hl=en-PL&gl=pl&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ludocid=13592782605807437325&lsig=AB86z5U1y2AYxvT-gVe2pDAFWmmi&hl=en&gl=PL&sei=V1S2apylJP2C9u8P1YC96A8"

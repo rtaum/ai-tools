@@ -1,0 +1,18 @@
+Updating user npm packages...
+
+changed 3 packages, and audited 748 packages in 1s
+
+180 packages are looking for funding
+  run `npm fund` for details
+
+2 vulnerabilities (1 moderate, 1 high)
+
+To address all issues, run:
+  npm audit fix
+
+Run `npm audit` for details.
+npm warn install-scripts 1 package has install scripts not yet covered by allowScripts:
+npm warn install-scripts   @companion-ai/feynman@0.3.47 (preinstall: node ./scripts/check-node-version.mjs)
+npm warn install-scripts
+npm warn install-scripts Run `npm install-scripts ls` to review, or `npm install-scripts approve <pkg>` to allow.
+Updated packages

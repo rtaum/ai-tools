@@ -1,0 +1,7 @@
+- generic [ref=e49]:
+  - generic [ref=e51]:
+    - heading "Privacy. By Default." [level=1] [ref=e52]
+    - paragraph [ref=e53]: Get Brave protection on every link you click. Just set Brave as default and browse. Privately.
+  - generic [ref=e54]:
+    - button "Set Brave as default browser" [ref=e56] [cursor=pointer]
+    - button "Skip" [ref=e59] [cursor=pointer]

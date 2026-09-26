@@ -1,0 +1,1740 @@
+### Page
+- Page URL: https://www.google.com/search?hl=en-PL&gl=pl&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ludocid=13592782605807437325&lsig=AB86z5U1y2AYxvT-gVe2pDAFWmmi&hl=en&gl=PL&sa=X&ved=2ahUKEwj7qrzVzomXAxVA5QIHHTk4C34Q3PALegQIHxAQ#lrd=0x47165b0b41c00035:0xbca343c32842c60d,1
+- Page Title: Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków - Google Search
+- Console: 24 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f18e1]:
+  - link [ref=f18e64] [cursor=pointer]: Skip to main content
+  - link [ref=f18e65] [cursor=pointer]:
+    - /url: https://support.google.com/websearch/answer/181196?hl=en-PL
+    - text: Accessibility help
+  - generic [ref=f18e8]:
+    - search [ref=f18e9]:
+      - generic [ref=f18e12]:
+        - link [ref=f18e66] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQpYkNegQIBhAG
+        - generic [ref=f18e19]:
+          - combobox [ref=f18e68]: Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+          - generic [ref=f18e23]:
+            - button [ref=f18e69] [cursor=pointer]
+            - generic [ref=f18e30]:
+              - button [ref=f18e70] [cursor=pointer]
+              - button [ref=f18e71] [cursor=pointer]
+        - button [ref=f18e72] [cursor=pointer]
+    - generic [ref=f18e42]:
+      - button [ref=f18e73] [cursor=pointer]
+      - button [ref=f18e78] [cursor=pointer]
+      - generic [ref=f18e51]:
+        - button [ref=f18e79] [cursor=pointer]
+        - link [ref=f18e80] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fhl%3Den-PL%26gl%3Dpl%26q%3DNauka%2Bjazdy%2BKrak%25C3%25B3w%2BOSK-Relax%2BSprint,%2BMarsza%25C5%2582ka%2BJ%25C3%25B3zefa%2BPi%25C5%2582sudskiego%2B38/1A,%2B31-111%2BKrak%25C3%25B3w%26ludocid%3D13592782605807437325%26lsig%3DAB86z5U1y2AYxvT-gVe2pDAFWmmi%26hl%3Den%26gl%3DPL%26sa%3DX%26ved%3D2ahUKEwj7qrzVzomXAxVA5QIHHTk4C34Q3PALegQIHxAQ&ec=futura_srp_og_si_72236_p
+          - generic [ref=f18e59]: Sign in
+  - generic [ref=f18e61]:
+    - navigation [ref=f18e84]:
+      - generic [ref=f18e90]:
+        - list [ref=f18e91]:
+          - listitem [ref=f18e92]:
+            - link [ref=f18e95] [cursor=pointer]:
+              - /url: /search?q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=0&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ2J8OegQIDRAD
+              - generic [ref=f18e96]: AI Mode
+          - listitem [ref=f18e99]:
+            - link [disabled] [ref=f18e100]:
+              - generic [ref=f18e101]: All
+          - listitem [ref=f18e103]:
+            - link [ref=f18e104] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQtKgLegQIFhAB
+              - generic [ref=f18e105]: Images
+          - listitem [ref=f18e107]:
+            - link [ref=f18e108] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQs6gLegQIFxAB
+              - generic [ref=f18e109]: Short videos
+          - listitem [ref=f18e111]:
+            - link [ref=f18e112] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQtKgLegQIGBAB
+              - generic [ref=f18e113]: Videos
+          - listitem [ref=f18e115]:
+            - link [ref=f18e116] [cursor=pointer]:
+              - /url: /search?sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ0pQJegQIFRAB
+              - generic [ref=f18e117]: News
+          - listitem [ref=f18e119]:
+            - link [ref=f18e120] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=web&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQs6gLegQIExAB
+              - generic [ref=f18e121]: Web
+          - listitem [ref=f18e123]:
+            - button [ref=f18e124] [cursor=pointer]:
+              - generic [ref=f18e125]: More
+        - button [ref=f18e132] [cursor=pointer]:
+          - generic [ref=f18e133]: Tools
+    - navigation [ref=f18e140]:
+      - navigation [ref=f18e143]:
+        - list [ref=f18e150]:
+          - listitem [ref=f18e151]:
+            - link [ref=f18e152] [cursor=pointer]:
+              - /url: /search?sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=nauka+jazdy+krak%C3%B3w+osk-relax+sprint+reviews&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDGpVLV-J2lF5czJrL5x5Md5D4gmwwHbxdnab2oksu6RD6ilagTjyDc_lfccn2GWA3mlPydtu1NmeU0Do6DPO92WhcdigCbyUwG0JZAb4zHZjcM3YWQWv-OW4SpwEtBoN9NdZK25oG7lXnxC7Y3MPRnzQtyd6XGpZQ4l4KeYuI3-TdtaHFmkOS2mGdXfSx_gThEyBN3uhClnVoMxm9z2w2Otl2QtWRln_wFkeaVD2lSc4o7dd8dJ7D2P51g2b9DjmCtKAlcLiWdTNgyoYVgaWo13nnKk&si=APenkKnzv9m99ToiohAuzpadUwbOz34nZJ3j2Ukmo5XOUYWApvqRAgigX2145JZg1b2REF8pm7s0dye9a2geGZQYACYUxeaU9LFFzqHAwP51JJn7k6LQ-y-UlkI8d-grK64YpFn4Rhbt-HORSQmzGhOJw7wf07uTWRDs-vxc_uJwZB9nRExX8wM%3D&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQxKsJKAB6BAgREAE&ictx=1
+              - generic [ref=f18e153]: Reviews
+    - heading [level=1] [ref=f18e155]: Search Results
+    - main [ref=f18e161]:
+      - region [ref=f18e164]:
+        - generic [ref=f18e171]:
+          - generic [ref=f18e172]:
+            - generic [ref=f18e173]: Sponsored places
+            - button [ref=f18e176] [cursor=pointer]
+          - generic [ref=f18e180]:
+            - list [ref=f18e182]:
+              - button [ref=f18e185] [cursor=pointer]:
+                - generic [ref=f18e186]:
+                  - group [ref=f18e187]
+                  - generic [ref=f18e200]
+              - button [ref=f18e215] [cursor=pointer]:
+                - generic [ref=f18e216]:
+                  - group [ref=f18e217]
+                  - generic [ref=f18e230]
+              - button [ref=f18e245] [cursor=pointer]:
+                - generic [ref=f18e246]:
+                  - group [ref=f18e247]
+                  - generic [ref=f18e260]
+              - button [ref=f18e275] [cursor=pointer]:
+                - generic [ref=f18e276]:
+                  - group [ref=f18e277]
+                  - generic [ref=f18e290]
+            - button [aria-hidden] [ref=f18e303] [cursor=pointer]
+      - tabpanel [ref=f18e321]:
+        - generic [ref=f18e322]:
+          - generic [ref=f18e325]:
+            - generic [ref=f18e330]:
+              - generic [ref=f18e337]:
+                - button [ref=f18e341] [cursor=pointer]:
+                  - generic [ref=f18e342]: See photos
+                - link [ref=f18e360] [cursor=pointer]:
+                  - /url: /local/place/fid/0x47165b0b41c00035:0xbca343c32842c60d/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DquUlSJqHxxzc7AYHpZBCcg%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D176.75893%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnF1VWxTSnFIeHh6YzdBWUhwWkJDY2c%3D&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQpx96BAgfEA8
+                  - generic [ref=f18e362]: See outside
+              - generic [ref=f18e365]:
+                - heading [level=2] [ref=f18e368]: Nauka jazdy Kraków OSK-Relax Sprint
+                - generic [ref=f18e369]:
+                  - generic [ref=f18e371]
+                  - button [ref=f18e389] [cursor=pointer]
+            - generic [ref=f18e397]:
+              - generic [ref=f18e406]:
+                - link [ref=f18e408] [cursor=pointer]:
+                  - /url: http://osk-relax.com/
+                  - generic [ref=f18e409]: Website
+                - link [ref=f18e415]:
+                  - generic [ref=f18e416] [cursor=pointer]: Directions
+                - generic [ref=f18e424] [cursor=pointer]: "+4"
+              - separator [ref=f18e426]
+            - generic [ref=f18e430]:
+              - generic [ref=f18e432]:
+                - generic [ref=f18e434]:
+                  - generic [ref=f18e435]
+                  - link [ref=f18e439] [cursor=pointer]:
+                    - /url: /maps/place//data=!4m2!3m1!1s0x47165b0b41c00035:0xbca343c32842c60d?sa=X&ved=1t:8290&hl=en&gl=PL&ictx=111
+                    - text: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - generic [ref=f18e442]:
+                  - generic [ref=f18e443]: "Phone:"
+                  - link [ref=f18e446] [cursor=pointer]:
+                    - /url: "#"
+                    - text: 603 588 483
+                - generic [ref=f18e447]:
+                  - generic [ref=f18e448]
+                  - button [ref=f18e451]
+                - link [ref=f18e465] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Suggest an edit
+              - separator [ref=f18e466]
+            - generic [ref=f18e470]:
+              - generic [ref=f18e473]:
+                - generic [ref=f18e474]:
+                  - heading [level=3] [ref=f18e475]: Reviews
+                  - generic [ref=f18e476]
+                - link [ref=f18e490] [cursor=pointer]:
+                  - /url: https://search.google.com/local/reviews?placeid=ChIJNQDAQQtbFkcRDcZCKMNDo7w&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&hl=en&gl=PL&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ3PALegQIIRAQ
+                  - text: 555 reviews
+                - generic [ref=f18e491]:
+                  - text: Reviews aren't verified
+                  - button [ref=f18e495] [cursor=pointer]
+              - separator [ref=f18e499]
+            - generic [ref=f18e505]:
+              - heading [level=3] [ref=f18e506]: Profiles
+              - link [ref=f18e511] [cursor=pointer]:
+                - /url: /goto?url=CAEScgHrOzAVeiIYIqqQem1rXxtkpv9HT0zpSLhw4oke1mrQ4DmBVMYFU3v4iFJ3yg8FcUeonz6FELbCIdBlfRD5Wn-YJlkqMwoK0uAC5A3A0Ar7do7mK87PMLm3Aspna5Jf6koWj2xebsKvg7J5sdJYlfX2lQ
+                - generic [ref=f18e512]: Facebook
+            - generic [ref=f18e525]:
+              - generic [ref=f18e528]:
+                - link [ref=f18e530] [cursor=pointer]:
+                  - /url: /goto?url=CAESiQEB6zswFUMJZLRfibVT2OsIoiydfpAMH8cm_BjCx6MIEoctWsIcPCLMgaCIe7tyxTfM1W8MzOfxFn8iIMeAEmNNx7bSIN3auWU9b1i9SqluVFttoQY_wouhjqJVyoaGsRibVcB4UmVpRyxk5aJREbHzBdi_SeBkDA4JKsPgc5MghEktvs41L32Xgw
+                  - heading [level=3] [ref=f18e531]: Nauka jazdy Kraków OSK-Relax Sprint, Krakow, Poland
+                  - generic [ref=f18e537]
+                - button [ref=f18e546] [cursor=pointer]
+              - generic [ref=f18e553]:
+                - text: Super ! See all reviews · Map. Address.
+                - emphasis [ref=f18e554]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. Website. http://osk-relax.com/. Phone. +48 603 588 483 ..."
+            - generic [ref=f18e562]:
+              - generic [ref=f18e565]:
+                - link [ref=f18e567] [cursor=pointer]:
+                  - /url: /goto?url=CAESuQEB6zswFS5vBycs1L2QtBDpxj2dKGYzQwWTJ5TnZTXBZI3APY7z-YCkrFvqLksrXW8wHCup9Mu7shVEhm1aSF6KJ-oXQRywa0M6kpuQNTuytLypEc2oSyXagIuRwXxAjMaLDiTZDD-o2OiLjmKCxLR_TXyCz4vWCJWf3sS-HrY4GJZBZ-4vrgOBjxHxnikknB1bxO51w1sgiq6kMdJYCJq1bIHzvQ29bLih6I30ou0fcES1rim9JtynpA
+                  - heading [level=3] [ref=f18e568]: Kontakt - Ośrodek Szkolenia Kierowców Relax Sprint s.c. ...
+                  - generic [ref=f18e574]
+                - generic [ref=f18e579]:
+                  - generic [ref=f18e580]: ·
+                  - link [ref=f18e581] [cursor=pointer]:
+                    - /url: /goto?url=CAESgwIB6zswFW7oioOiLaBHB20_g-_QY97iBCvboObX3jHSJCKrOsAxRjfSYkCvz60Ue7g6To6E4zrqlcXWo5UpuYoagYWTj4e8SSltjJGo_6kAEcqP0rkipopsWyNXrOX759N5mXtzZagW6HaTcjRSLX2JuxRrZYs0aaIC_u_j0MA29jJvDW9OW6K4l0UiFtEU7ZoSR0WAgK_W6r50N_g2UO-lnBGJjMpJ73tUbpoLl6z0D_qSTMhHw4YHP0hLrz4qu5GMEaqsQs_vDxE-bcxdBlvHzpJNlzswmLf86PxqQFBQ3-0yw368l2CJhEf2flNdfNU5Gy4hnLK6mzs9yXDYygYIqao8
+                    - text: Translate this page
+                - button [ref=f18e586] [cursor=pointer]
+              - generic [ref=f18e592]:
+                - generic [ref=f18e593]:
+                  - text: ": OŚRODEK SZKOLENIA KIEROWCÓW \"RELAX - SPRINT\" S.C. MARIA KOWACZ, DARIUSZ KOWACZ. Adres rejestrowy:"
+                  - emphasis [ref=f18e594]: ul. Marszałka Józefa Piłsudskiego 38 lok. 1 31-111 Kraków
+                  - text: ...
+                - link [ref=f18e595] [cursor=pointer]:
+                  - /url: /goto?url=CAES3QEB6zswFVxjwCzZLg-P42N41Mp5tsPRs09CBvOH2Kcb_PXaqAXTbPASVZQgky363nFEtlGONR1EIDoQfUQJuhzry4AEoYrq5PWMmwdv8rCYwkxY_xTok3GpfMSFVYBpuuMFI_UHLykfHn3ukZh9fcEiFjInKT63s3J2w0dYA0p4I25FNJos3UHXKZUjlkD-q0o41rSGbgDA4sWjcFFtLzll3Gc67YjVb4pPb-iM68guP8d7ehSVE3-F9aE4xc8TxhhF8fIzNdF6WcTuHd4zDyNLrb35DRqaD9tG6Dackw
+                  - text: Read more
+              - generic [ref=f18e597]:
+                - text: "Missing: OSK- ‎| Show results with:"
+                - link [ref=f18e598] [cursor=pointer]:
+                  - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=Nauka+jazdy+Krak%C3%B3w+%22OSK-%22+Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ5t4CegQISRAB
+                  - text: OSK-
+            - generic [ref=f18e606]:
+              - generic [ref=f18e609]:
+                - link [ref=f18e611] [cursor=pointer]:
+                  - /url: /goto?url=CAESlwEB6zswFQwpfpONJttCRBRinIFkh31H-0Ns5qULTpqhT7nUl6YaRt2_eomM9UlxrJqRY9EqhqL9tYPS5y5DZDTyq-PUA22TJXimGtR_JHldTNwjTA7A7j2UhuZU3Kb0a7cbBwtovk8RBotuXTXybP2reIzfJGkg2-pfJV83MdB-dIn7aPKXTqAN5S5Sct6OLIYKUibU5YO8
+                  - heading [level=3] [ref=f18e612]: Kursy dla kierowców - usługi transportowe, kursy prawa jazdy ( ...
+                  - generic [ref=f18e618]
+                - generic [ref=f18e623]:
+                  - generic [ref=f18e624]: ·
+                  - link [ref=f18e625] [cursor=pointer]:
+                    - /url: /goto?url=CAES4wEB6zswFeQpNvL6E1U9mtmban6Sy6EBjQ7newbNQbj2O22ivEXmIionMxMzv7GjRx42BYOjfFkA__68G7nq-6AX_kLShxb09q9XRpJ-rz3jHsKjThaVRvWL8wTuEXsD2qD6EMI4jqSfeA-us4ZWxUfmpLBSPKnBjI9FJhjHRepdXukoVBvHZTnzLcEaUhIvewlhZmmYTxY7lZ539IMjIwpphASFxeBwoLx6Vbj14_So8_IzOwpqGXvPA1pdl9ywts6RiAmguV8V20lttnP-1448v4m42bxdDz48s_mwXPl6klOFoQ
+                    - text: Translate this page
+                - button [ref=f18e630] [cursor=pointer]
+              - generic [ref=f18e637]:
+                - emphasis [ref=f18e638]: marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.com. 14 maja 2026 (czwartek). Prawo jazdy kat ...
+            - generic [ref=f18e646]:
+              - generic [ref=f18e649]:
+                - link [ref=f18e651] [cursor=pointer]:
+                  - /url: /goto?url=CAESkwEB6zswFYP2bMQkzwVgKd7EHjRFWi-7MNjpEaPEp21fKvVOJiOLb_V1cau5OivdpdQc6FepeM_fdiwbMZj0kXvgdPffTbNd1XyXNhF9ELOF33vrIUmkOxBWWS3K2IyyQU595dMbDx6tlHFN5aj_bB8ewZtlE-mBGTiawXMudUhPLLX5_kBK_cheBhELoqPOhxkLaFQ
+                  - heading [level=3] [ref=f18e652]: Nauka jazdy Kraków OSK-Relax Sprint, Krakau, Polen
+                  - generic [ref=f18e658]
+                - generic [ref=f18e663]:
+                  - generic [ref=f18e664]: ·
+                  - link [ref=f18e665] [cursor=pointer]:
+                    - /url: /goto?url=CAES4QEB6zswFc53SrIsepTxO674bOY5CmSKtuaQECzZ3nosO4x5LOV-E59C3jCajHIJobY2DFR32zJw8TW8nAB4dppCwn3V6w3h7WPfNQenyKryrtNxlugw3BCB_0jkoSN055Tx0zRiKLPLxZMFInshUZZAfbzvXLshQzJAr6gti3RKU8ZQGosGLr5D-HDjE_0JOxi308r0R0m4QYPZVbxX6QcuLNfhqnLE1R5IclwbBE_Xj8JrIVVqxBAi1JllJNLUVL2RjfvYIB9IQZlNl7_96m1f4DGuWWvjZaXnljNAlHCpYP4
+                    - text: Translate this page
+                - button [ref=f18e670] [cursor=pointer]
+              - generic [ref=f18e677]:
+                - emphasis [ref=f18e678]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Polen. Webseite. http://osk-relax.com/. Telefon. +48 603 588 483. Stunden. So. Sonntag: Geschlossen. Mo ..."
+            - generic [ref=f18e686]:
+              - generic [ref=f18e689]:
+                - link [ref=f18e691] [cursor=pointer]:
+                  - /url: /goto?url=CAES7wEB6zswFWH2wpFYOZrVNfOZG1DZSTO_tADvutCdntxAxbF6Ge7wi4p86gSNqnf-NSQ96YdEw9619pEfl2XOnK_0aPy5NIM95tKrBQPDlQUIIlDUxfrzY-FbW7mwYI8RRQjUBAlnJM6I8scEDZHCEL0aH-OPNP5gfboc1aVX8NP7MJqyfON8rBmhrNfXjKwymKaiP7_28XHuzcY-7knQCPVbmxszKer6slJC7yjCNLAXDDufk4hgGOyOn2rOGvfFiqT3DgBQFASkpL02u5jqxKxMqqSYwjHjY7f9jLalHjvd54V_A-hY7LqFioZq6gK2IA
+                  - heading [level=3] [ref=f18e692]: Kurs Prawo Jazdy kat. A / Po zdanym egzaminie teoretycznym w ...
+                  - generic [ref=f18e698]
+                - generic [ref=f18e703]:
+                  - generic [ref=f18e704]: ·
+                  - link [ref=f18e705] [cursor=pointer]:
+                    - /url: /goto?url=CAESuAIB6zswFa82VXeB715XuPdW5zgBwg2fK48ocjkATBGv1UyyIb3MDVeYcqejhBm7nibdOZvS23n10GaQ1GH-hMUvn01fUSCdOYuxKZHAyl5k_gifz0h1jnUSXY-SzAHh0ZC57owW0tJJ93PGWqdlXcFP35GRWeWJj8aAOmkBdTS753R8HZJPte6Z7vxUA2nUVr5bqYXgIClFv1XeWLROQEzx9tYzuZ8O67e2deZLF1t37hEkx-t_Lia0CHt7KE-fhUlFChrSwmdFgrZwT06gWOsEbI7-W9ReZyZ8JxINRrMnM_zyPUX6-XcD1lFWGJfZ9RV74-NZ4ZJQHjeRjTPTcwU8aWKbai38a4P4B7kmYOuOsulEpQffXF5Rc_TDsgz_Whz8LC337wOONerojpkcar8jtl4DT6UdcFw
+                    - text: Translate this page
+                - button [ref=f18e710] [cursor=pointer]
+              - generic [ref=f18e717]:
+                - text: ... Sprint " s.c. Maria Kowacz , Dariusz Kowacz
+                - emphasis [ref=f18e718]: ul. marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.
+            - generic [ref=f18e726]:
+              - generic [ref=f18e729]:
+                - link [ref=f18e731] [cursor=pointer]:
+                  - /url: /goto?url=CAESkwEB6zswFUi6s1sEIjOueLOSDC5LVd3Bf7YrvdfyZzGqFrFzyJ3MGBUvR2stoiNJ4u8RGpyzepIIzwTSK4KdHoMJaQe0JSsDtW7uc7qSXNo8PSnHtzPTaJT1gABgurewtVW21H-oRw1_PQ5qy4sOatMj-GUgZnsIvjIhk-i_3rWAzyOCV6yf6sAetjoXo0mPJyeGhtA
+                  - heading [level=3] [ref=f18e732]: Nauka jazdy Kraków OSK-Relax Sprint, Krakow, Polen
+                  - generic [ref=f18e738]
+                - generic [ref=f18e743]:
+                  - generic [ref=f18e744]: ·
+                  - link [ref=f18e745] [cursor=pointer]:
+                    - /url: /goto?url=CAES4QEB6zswFfhfkzJQb0wpwdIz5Y84BIoU7Ohxun4flMVJ0BsnjtlagEa6eUdZlMOvuHcQ7r8bmGP1CBYAcgwVPWh2jss5YxbFbdKjM8OqI20m2RbJMuxzKujgrmm3h0iOJPDKZRsnfxT9PfZsWfmFx4dzhjZOBtFx_om1XSOpesoX-q_P8CRGesucntKGitipLwAjbwTtaVrEZ4QsBfeVHLIfXqv4-cq2SCOVMiy0Ke9OW9XK0WnbPQZGyzQfbnicQ5JNROuRsP7q9cLD5hRJqrbAEdDpS8ppa9FLqHUxDEaDtQY
+                    - text: Translate this page
+                - button [ref=f18e750] [cursor=pointer]
+              - generic [ref=f18e757]:
+                - emphasis [ref=f18e758]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Polen. Hjemmeside. http://osk-relax.com/. Telefon. +48 603 588 483. Timer. sø. søndag: Lukket. mamandag: ..."
+            - generic [ref=f18e766]:
+              - generic [ref=f18e769]:
+                - link [ref=f18e771] [cursor=pointer]:
+                  - /url: /goto?url=CAES_QEB6zswFfrMhxFEZumYJBGLFosDD9yqjTgVvBT1TjO2gMjZOqTYFDh0aa0fsj3pVuJlHn6wNAQ8KmtqDDS__urMl-jY9v-UbJfQP0CRsOYchEQmW01uTrgmJeEqt3_gB7dwc42aNe4mC1ueozbsJzVWAWhwSZsIYs7KKCf2eTdFmVtjwRLMvKNd8QGkBJU1HH_hFO-k2c_89BUMuP-i_ObAR1OP9s617ebO-i0bs9trLR2znCIIaXprP4KORkeHKybDZCRCmkn4uTfh0i6rLiUDyPaJ-sdc4Sb986jij4G9oNUVNPmQrNLWvwyu3vQ0lm-arrOSKhT8VfsYNHH_
+                  - heading [level=3] [ref=f18e772]: Kurs Prawo Jazdy kat. B / Rozszerzony / Małopolski Pociąg do ...
+                  - generic [ref=f18e778]
+                - generic [ref=f18e783]:
+                  - generic [ref=f18e784]: ·
+                  - link [ref=f18e785] [cursor=pointer]:
+                    - /url: /goto?url=CAES0AIB6zswFXxpKV0DU0HETeTRq5EgQiJW3nkRilHQGlc8Bh77xidYKoSINiyiWh1vRH2tdoQPkcUNkUgMe8WSM1cjhPFdHJdlbCh93jVH6RkQtOMJZpm0bw2UeAAnhqKxkUwzfzSDjIVDmuom6h5gkHW0Uguxw9PW2m2wiO3xcrQvo7pFqQy2z0dDJHR1h1xOUI_MpiHY-wP4_7zCILRas0clowH7Cxz6AYP48niFqbgBg76SBEV8v5EK3V--4bv7CZk4D_ocAa33qg5-toDy1fbwArGqopeNXbT9HBmesQ9XQ8Lz_K9LAWftJCkhaxb5luw6tjXQBO-KAAg8Eb7QReY6I--mUXJS_8JFF4lwppCP5e_eopl5KefczYpom-3rmx2ElfPu4Ripko6rkPRoMt7GUueAZpVAvwZ_ndL2RPrKL4nCVMWqV36nqIiDGMFk7UE
+                    - text: Translate this page
+                - button [ref=f18e790] [cursor=pointer]
+              - generic [ref=f18e797]:
+                - text: ... Sprint " s.c. Maria Kowacz , Dariusz Kowacz
+                - emphasis [ref=f18e798]: ul. marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.
+            - generic [ref=f18e806]:
+              - generic [ref=f18e809]:
+                - link [ref=f18e811] [cursor=pointer]:
+                  - /url: /goto?url=CAESeAHrOzAVfbuz1gvVm9-FyQ-58GfnBx5CYNxvkV7bAE8uXLtEFNu_Fu1yaDIui3K8a18SVWLD7j91tZNVabSYbNBGyeBndbXzzDROC3PrVV0mi06ezq6_3GdYixRwGcfirgBi265AynTr1QbpgHTRk_WXbqZYNUdB0w
+                  - heading [level=3] [ref=f18e812]: Perniagaan Sekolah Memandu di Wawel
+                  - generic [ref=f18e818]
+                - generic [ref=f18e823]:
+                  - generic [ref=f18e824]: ·
+                  - link [ref=f18e825] [cursor=pointer]:
+                    - /url: /goto?url=CAESxAEB6zswFcIWiEhYbCAhUlYuyO3pSKBDBewMbDXX2dfJCRM9wUHCysphg9F1LxxzvKJBuDO-QZnFzqLkyUEyMG8drIJRN921LmBruoRdnyh9TVLl1mRQut2np3mNSBVJIm4RPtDqfavjcc42mIj8FVeiZRWySFeYu_BhOnBapTqJcwMz2UGUODpiL3dAdoMZETvftlo0FZ39Mna17WIWNRj1zlfFn5H0dpX2Q_D4cnsTipLEWnZ8B4HMa1nS-mU766gqdb0C
+                    - text: Translate this page
+                - button [ref=f18e830] [cursor=pointer]
+              - generic [ref=f18e837]:
+                - text: Nauka jazdy Kraków OSK-Relax.
+                - emphasis [ref=f18e838]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. 4.6 (496) · 603 588 483 · Buka Sekarang. osk-relax.com. 1.2 ..."
+            - generic [ref=f18e846]:
+              - generic [ref=f18e849]:
+                - link [ref=f18e851] [cursor=pointer]:
+                  - /url: /goto?url=CAEShAEB6zswFTespHif4nWDSBHqc6izNivJVCAl0xiCsaumB-5bDQisKoPoaE3-RsE528881ZyaDV6oVvrelkhVim_-2AIfsQ0MUkUm2bYh_pJ8Cifozu4HRKD1zXh_n9wPoFhiAmves6_m-x4zxzY7vGpV05c7l02Hwm03PGi5sgciAxjxXDE
+                  - heading [level=3] [ref=f18e852]: Perniagaan Sekolah Memandu di KryspinóW
+                  - generic [ref=f18e858]
+                - generic [ref=f18e863]:
+                  - generic [ref=f18e864]: ·
+                  - link [ref=f18e865] [cursor=pointer]:
+                    - /url: /goto?url=CAES2AEB6zswFSAY4b9RwpjPvm39lFPV9zOvhK1UC5ECmXFn5FaXX_vElpgHbxQKvP1S1dexSP6iDDo_bs-YjkM6EhT4OqK7i8bD843FLgwBbU2_RzKUG8j7WQS3ZGPXYZcuSolW0MpUOg46a5wXMNXo6i0bKWVJxtmlFUC3b5MPojcXztta7ZolsOWaymYv6Q029Q1H7SV35aijiJ0EeeCWIDxFSEfVlQBSIibu-r5MlS-lhawrl-esaTaWBAwogYHbvvrmkPanSk0eV7cbpX3gnyRX-ocZFsi1Gfw
+                    - text: Translate this page
+                - button [ref=f18e870] [cursor=pointer]
+              - generic [ref=f18e877]:
+                - text: Nauka jazdy Kraków OSK-Relax.
+                - emphasis [ref=f18e878]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. 4.6 (496) · 603 588 483. osk-relax.com. 9.3 km · EDUCATION ..."
+          - generic [ref=f18e879]:
+            - heading [level=2] [ref=f18e880]: Notices about Filtered Results
+            - paragraph [ref=f18e882]:
+              - generic [ref=f18e883]:
+                - text: In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed. If you like, you can
+                - link [ref=f18e884] [cursor=pointer]:
+                  - /url: /search?q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&filter=0
+                  - text: repeat the search with the omitted results included
+                - text: .
+    - contentinfo [ref=f18e886]:
+      - heading [level=1] [ref=f18e887]: Footer links
+      - generic [ref=f18e891]:
+        - generic [ref=f18e893]:
+          - text: Poland
+          - generic [ref=f18e895]:
+            - button [ref=f18e897] [cursor=pointer]:
+              - generic [ref=f18e898]: Prądnik Biały, Kraków
+              - generic [ref=f18e900]:
+                - text: "-"
+                - generic [ref=f18e901]: From your IP address
+            - text: "-"
+            - button [ref=f18e903] [cursor=pointer]: Update location
+        - generic [ref=f18e906]:
+          - link [ref=f18e907] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-PL&fg=1
+            - text: Help
+          - link [ref=f18e908] [cursor=pointer]:
+            - /url: "#"
+            - text: Send feedback
+          - link [ref=f18e909] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-PL&fg=1
+            - text: Privacy
+          - link [ref=f18e910] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-PL&fg=1
+            - text: Terms
+  - dialog [ref=f18e912]:
+    - generic [ref=f18e915]:
+      - generic [ref=f18e916]:
+        - generic [ref=f18e917]:
+          - generic [ref=f18e918]: Nauka jazdy Kraków OSK-Relax Sprint
+          - generic [ref=f18e919]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków, Poland
+        - button "Write a review" [ref=f18e922]
+      - generic [ref=f18e926]:
+        - text: "4.6"
+        - img "Rated 4.6 out of 5," [ref=f18e927]
+        - generic [ref=f18e930]: 555 reviews
+        - generic [ref=f18e932]:
+          - generic [ref=f18e933]: Reviews aren't verified
+          - button "More info" [ref=f18e936] [cursor=pointer]
+      - generic [ref=f18e941]:
+        - generic [ref=f18e942]: Sort by
+        - radiogroup "Sort reviews" [ref=f18e947]:
+          - radio "Most relevant" [ref=f18e948] [cursor=pointer]
+          - radio "Newest" [ref=f18e951] [cursor=pointer]
+          - radio "Highest rating" [ref=f18e954] [cursor=pointer]
+          - radio "Lowest rating" [checked] [ref=f18e957] [cursor=pointer]
+        - generic [ref=f18e1596]:
+          - generic [ref=f18e1597]:
+            - generic [ref=f18e1598]:
+              - link "Artemy “GMan” Krivenko Artemy “GMan” Krivenko 7 reviews" [ref=f18e1599] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/104515881901334759733/reviews?hl=en-GB
+                - generic [ref=f18e1600]:
+                  - img "Artemy “GMan” Krivenko" [ref=f18e1602]
+                  - generic [ref=f18e1603]
+              - button "Review options for review by Artemy “GMan” Krivenko" [ref=f18e1610] [cursor=pointer]
+            - generic [ref=f18e1615]: 3 months ago
+            - generic [ref=f18e2190]:
+              - generic [ref=f18e2191]: Nikomu nie polecam tej szkoły jazdy. Pozytywne opinie mogą być zwyczajnie nakręcane — podczas jazd Dariusz (nie potrafię kulturalnie nazwać go „panem”, bo swoim zachowaniem na to nie zasługuje) ciągle wymusza wystawianie pozytywnych opinii, cały czas o tym mówi i sprawdza, czy kursant faktycznie coś napisał.Dla niego normalne jest również załatwianie prywatnych spraw podczas jazd. Potrafi wyjść z samochodu nawet na 20 minut, a kursant i tak płaci za pełną godzinę. Żadnego realnego szkolenia tam nie ma — zamiast uczyć, siedzi na fotelu pasażera i ogląda TikToki. Jako instruktor jest kompletnie beznadziejny.W praktyce kursant staje się jego prywatnym kierowcą i wozi go po jego sprawach za własne, niemałe pieniądze.Omijajcie tę szkołę szerokim łukiem. Jedyny pozytywny aspekt tego miejsca to pani z biura — naprawdę profesjonalna i kompetentna osoba. Bardzo jej życzę znalezienia lepszej pracy niż współpraca z tak agresywnym i niekulturalnym człowiekiem.
+              - button "See translation (English)" [ref=f18e2195] [cursor=pointer]
+            - generic [ref=f18e1636]:
+              - generic [ref=f18e1637]:
+                - button "React to review by Artemy “GMan” Krivenko" [ref=f18e1640] [cursor=pointer]
+                - button "7 reactions. Expand reaction summary" [ref=f18e1645] [cursor=pointer]:
+                  - img "7 reactions. Expand reaction summary" [ref=f18e1646]
+              - button "Share review by Artemy “GMan” Krivenko" [ref=f18e1650]
+          - generic [ref=f18e1655]:
+            - generic [ref=f18e1656]:
+              - link "Magda Magda 1 review" [ref=f18e1657] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/101358027905381051759/reviews?hl=en-GB
+                - generic [ref=f18e1658]:
+                  - img "Magda" [ref=f18e1660]
+                  - generic [ref=f18e1661]
+              - button "Review options for review by Magda" [ref=f18e1668] [cursor=pointer]
+            - generic [ref=f18e1673]: a year ago
+            - generic [ref=f18e2196]:
+              - generic [ref=f18e2197]: Odradzam.- Instruktor podczas jazd na A2 gwiżdże w słuchawkę, śpiewa, często podnosi głos. Notorycznie rozmawia z kimś przez telefon, czy to z rodziną, czy następnym kursantem, czy nawet mechanikiem.- Notorycznie się spóźnia, po czym kończy wcześniej jazdy, co nie jest odnotowywane w karcie kursanta.- Załatwia swoje sprawy w czasie jazd - raz zdarzyła się sytuacja, gdzie przez 20 minut czekałam na niego pod sklepem bo poszedł sobie kupić picie lub innym razem czekałam 15 minut ponieważ musiał zatankować auto i zamówić kawę na stacji, już pomijając inne podobnego typu sytuacje, gdzie czekałam na niego nieco krócej - dany czas nie został odliczony od wyjeżdżonych godzin, tylko zmarnowany.- Kompletnie nieprofesjonalne podejście do kursanta, częste odwoływanie lub przenoszenie umówionych godzin, zapisywanie że nauka została rozpoczęta o konkretnej godzinie, gdzie rozpoczęła się niemalże 20 minut później przez spóźnienie instruktora.- Z bardziej nieprzyjemnych sytuacji - gdy po raz pierwszy przewrócił mi się motor, instruktor rzucił tylko "niech go Pani teraz podnosi" po czym odszedł bez udzielenia żadnych instrukcji i wrócił dopiero po dłuższym czasie.- Brak szacunku do kursanta, zwracanie się per "lady", poniżanie go, budowanie nieprzyjemnej i stresującej atmosfery.- Strasznie słabe tłumaczenie ze strony instruktora, sprawia wrażenie jakby oczekiwał że kursant powinien już sam wszystko umieć i wiedzieć.- Po odbyciu wszystkich godzin instruktor ani razu nie zaprezentował jak się sprawdza stan techniczny pojazdu oraz nie odbył ze mną manewru przemieszczenia pojazdu z wyłączonym silnikiem. Ani razu również nie zostało mi przedstawione hamowanie awaryjne, już nie mówiąc o praktyce tych czynności.- Na dłuższą metę, można odnieść wrażenie że szkoła jest skora do udzielania złej nauki, by doprowadzić do jazd dodatkowych.Zdecydowanie odradzam wybór tej szkoły, w Krakowie jest dostępnych wiele lepszych szkół, w które o wiele bardziej warto zainwestować swój czas i pieniądze.
+              - button "See translation (English)" [ref=f18e2201] [cursor=pointer]
+            - generic [ref=f18e1694]:
+              - generic [ref=f18e1695]:
+                - button "React to review by Magda" [ref=f18e1698] [cursor=pointer]
+                - button "28 reactions. Expand reaction summary" [ref=f18e1703] [cursor=pointer]:
+                  - img "28 reactions. Expand reaction summary" [ref=f18e1704]
+              - button "Share review by Magda" [ref=f18e1708]
+          - generic [ref=f18e1713]:
+            - generic [ref=f18e1714]:
+              - link "Aleksandra Majewska Aleksandra Majewska Local Guide9 reviews" [ref=f18e1715] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/117979330077524099250/reviews?hl=en-GB
+                - generic [ref=f18e1716]:
+                  - img "Aleksandra Majewska" [ref=f18e1718]
+                  - generic [ref=f18e1719]
+              - button "Review options for review by Aleksandra Majewska" [ref=f18e1726] [cursor=pointer]
+            - generic [ref=f18e1731]: a year ago
+            - generic [ref=f18e2202]:
+              - generic [ref=f18e2203]: Nie polecam tej szkółki z całego serca. Nie potrzebne odzywki w czasie jazd do samego kursanta jak i do osób trzecich. Częste rozmowy przez telefon, które dekoncentrują. Umawiając się na daną godzinę zachęcam do proszenia o podpis instruktora Pana D. Umawianie się na daną godzinę w danym dniu, a później informacja, że przecież umawialiśmy się na inną godzinę i mówienie, że trzeba zapłacić karę. Twierdzenie, iż rozmowy są nagrywane (bez twojej wiedzy) i wszystko można sprawdzić, a później brak jakichkolwiek informacji na temat tego nagrania bo „auto w naprawie”. Słuchanie radia Maryja to standard.Nie wspominając o umowie, która jest nie zgodna z prawem, gdyż szkółka wymaga zapłaty za przeniesienie dokumentów do innej szkoły jazdy. Klienci są wprowadzeni w błąd, ponieważ na stronie szkoły jest napisane,że egzamin wewnętrzny jest wliczony w cenę, natomiast w umowie jest napisane, że nie. Naprawdę odradzam.
+              - button "See translation (English)" [ref=f18e2207] [cursor=pointer]
+            - generic [ref=f18e1752]:
+              - generic [ref=f18e1753]:
+                - button "React to review by Aleksandra Majewska" [ref=f18e1756] [cursor=pointer]
+                - button "27 reactions. Expand reaction summary" [ref=f18e1761] [cursor=pointer]:
+                  - img "27 reactions. Expand reaction summary" [ref=f18e1762]
+              - button "Share review by Aleksandra Majewska" [ref=f18e1766]
+          - generic [ref=f18e1771]:
+            - generic [ref=f18e1772]:
+              - link "Wiktor Jędrzejewski Wiktor Jędrzejewski 4 reviews" [ref=f18e1773] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108222833987784018718/reviews?hl=en-GB
+                - generic [ref=f18e1774]:
+                  - img "Wiktor Jędrzejewski" [ref=f18e1776]
+                  - generic [ref=f18e1777]
+              - button "Review options for review by Wiktor Jędrzejewski" [ref=f18e1784] [cursor=pointer]
+            - generic [ref=f18e1789]: 2 years ago
+            - generic [ref=f18e2208]:
+              - generic [ref=f18e2209]: Nie polecam tej szkoły. Pan Dariusz spóźniał się na jazdy, a w ich trakcie rozmawiał przez telefon i załatwiał swoje prywatne sprawy. Twierdził, że byliśmy umówieni na daną godzinę, gdy nie byliśmy- próbował naciągnąć na dodatkowe jazdy.Atmosfera jazd bardzo nieprzyjemna, a instruktor przejawiał brak cierpliwości i bardzo demotywował. Odradzam każdemu.
+              - button "See translation (English)" [ref=f18e2213] [cursor=pointer]
+            - generic [ref=f18e1810]:
+              - generic [ref=f18e1811]:
+                - button "React to review by Wiktor Jędrzejewski" [ref=f18e1814] [cursor=pointer]
+                - button "19 reactions. Expand reaction summary" [ref=f18e1819] [cursor=pointer]:
+                  - img "19 reactions. Expand reaction summary" [ref=f18e1820]
+              - button "Share review by Wiktor Jędrzejewski" [ref=f18e1824]
+            - generic [ref=f18e1829]:
+              - generic [ref=f18e1831]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e1833]
+                - generic [ref=f18e1834]:
+                  - generic [ref=f18e1835]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e1836]: 2 years ago
+              - generic [ref=f18e1838]:
+                - generic [ref=f18e1839]: We've never had a course with a person by that name. Instructor Dariusz no longer works with us.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e1840] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e1842]:
+            - generic [ref=f18e1843]:
+              - link "Ja Ja Local Guide15 reviews" [ref=f18e1844] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108461294082379698822/reviews?hl=en-GB
+                - generic [ref=f18e1845]:
+                  - img "Ja" [ref=f18e1847]
+                  - generic [ref=f18e1848]
+              - button "Review options for review by Ja" [ref=f18e1855] [cursor=pointer]
+            - generic [ref=f18e1860]: 4 years ago
+            - generic [ref=f18e2214]:
+              - generic [ref=f18e2215]: Serdecznie NIE polecam tej śmiesznej szkoły jazdy. Wielokrotnie problemy z Panem Dariuszem, w szczególności umawianie się na termin jazdy. Zazwyczaj to było po 1 h. Prosiłem aby umówić na więcej godzin np 3 gdyż nie ma sensu przyjeżdżać na 1h stojąc w korkach. Odnośnie płatności to był Problem zapłacić z rana gdyż biuro nie było otwarte a P.Dariusz nie ma obowiązku odebrania zapłaty, ale problem z terminem płatności to już tak. Podczas jazd kilka razy zdarzyło mi się jechać na pocztę, podrzucić kolegę czy skrócić czas jazd.( Oczywiście największy był problem kiedy ja się spóźniłem). Cena była kusząca, lecz okazuje się że trzeba doliczyć egzaminy osobno. Najlepiej omijać szerokim łukiem.
+              - button "See translation (English)" [ref=f18e2219] [cursor=pointer]
+            - generic [ref=f18e1881]:
+              - generic [ref=f18e1882]:
+                - button "React to review by Ja" [ref=f18e1885] [cursor=pointer]
+                - button "26 reactions. Expand reaction summary" [ref=f18e1890] [cursor=pointer]:
+                  - img "26 reactions. Expand reaction summary" [ref=f18e1891]
+              - button "Share review by Ja" [ref=f18e1895]
+          - generic [ref=f18e1900]:
+            - generic [ref=f18e1901]:
+              - link "Gabriela Gabriela 2 reviews" [ref=f18e1902] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/110619232108353756915/reviews?hl=en-GB
+                - generic [ref=f18e1903]:
+                  - img "Gabriela" [ref=f18e1905]
+                  - generic [ref=f18e1906]
+              - button "Review options for review by Gabriela" [ref=f18e1913] [cursor=pointer]
+            - generic [ref=f18e1918]: 8 years ago
+            - generic [ref=f18e2220]:
+              - generic [ref=f18e2221]: Ta opinia będzie dość długa, z racji moich wielu przykrych doświadczeń w tej szkole jazdy. Oczywiście na samym początku muszę napisać, że zdecydowanie nie polecam OSK-Relax. (Pomijam już sam "ośrodek" w kamienicy, która w środku jest bardzo obskurna..) Przechodząc do rzeczy - 3 instruktorów - jeździłam ze wszystkimi, każdy mi mówił co innego. Na samym początku zadając jakiekolwiek pytania dostawałam odpowiedź "a to Pani tego nie wie?" Pomijając - jeden z instruktorów, (z którym jeździłam najczęściej) był bardzo niesympatyczny, wręcz chamski. Obsługę samochodu oraz co się znajduje pod maską pokazano mi praktycznie pod sam koniec jazd, o wiele rzeczy trzeba się upominać. Pan instruktor bardzo często załatwiał swoje sprawy prywatne podczas jazd ze mną, notorycznie rozmawiał przez telefon. Raz umówiłam się na jazdy, miałam wszystko zapisane w kalendarzu, po czym okazało się, że pan instruktor umówił sobie na ten dzień i godzinę inną osobę, wmawiając mi, że musiało mi się coś pomylić, kolejna wręcz komiczna sytuacja - raz przyjechałam pod "ośrodek jazd" czekając z 20 minut, po czym wróciłam do domu i otrzymałam telefon godzinę później z zapytaniem gdzie jestem. Kompletny brak szacunku wobec kursantów... Idąc dalej.. Co innego jest napisane na stronie internetowej, co innego jest w rzeczywistości. Miałam jeździć kia rio, a w większości dostawałam toyote yaris. Za wewnętrzny egzamin teoretyczny trzeba tam płacić, żaden z moich znajomych robiących prawo jazdy z takim czymś się nie spotkał. Jak dla mnie pod każdym względem ta szkoła jazdy okazała się porażką, nie polecam nikomu.
+              - button "See translation (English)" [ref=f18e2225] [cursor=pointer]
+            - generic [ref=f18e1939]:
+              - generic [ref=f18e1940]:
+                - button "React to review by Gabriela" [ref=f18e1943] [cursor=pointer]
+                - button "64 reactions. Expand reaction summary" [ref=f18e1948] [cursor=pointer]:
+                  - img "64 reactions. Expand reaction summary" [ref=f18e1949]
+              - button "Share review by Gabriela" [ref=f18e1953]
+          - generic [ref=f18e1958]:
+            - generic [ref=f18e1959]:
+              - link "Magdalena Sikora Magdalena Sikora 6 reviews1 photo" [ref=f18e1960] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111757674644306530191/reviews?hl=en-GB
+                - generic [ref=f18e1961]:
+                  - img "Magdalena Sikora" [ref=f18e1963]
+                  - generic [ref=f18e1964]
+              - button "Review options for review by Magdalena Sikora" [ref=f18e1971] [cursor=pointer]
+            - generic [ref=f18e1976]: 3 years ago
+            - generic [ref=f18e2226]:
+              - generic [ref=f18e2227]: Nie polecam! W 2019 roku rozpoczęłam kurs w tej szkole i do teraz mam traumatyczne wspomnienia (jazdy z Panem Dariuszem). Zmieniłam szkołę jazdy w połowie kursu i to była najlepsza decyzja jaką mogłam podjąć!! Spóźnianie się na jazdy, wmawianie, że byliśmy umówieni na inną godzinę jazd i chamskie przyśpiewki w samochodzie to norma. Koszmar...
+              - button "See translation (English)" [ref=f18e2231] [cursor=pointer]
+            - generic [ref=f18e1997]:
+              - generic [ref=f18e1998]:
+                - button "React to review by Magdalena Sikora" [ref=f18e2001] [cursor=pointer]
+                - button "43 reactions. Expand reaction summary" [ref=f18e2006] [cursor=pointer]:
+                  - img "43 reactions. Expand reaction summary" [ref=f18e2007]
+              - button "Share review by Magdalena Sikora" [ref=f18e2011]
+          - generic [ref=f18e2016]:
+            - generic [ref=f18e2017]:
+              - link "Paulina Papież Paulina Papież Local Guide16 reviews1 photo" [ref=f18e2018] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/118140188598235915330/reviews?hl=en-GB
+                - generic [ref=f18e2019]:
+                  - img "Paulina Papież" [ref=f18e2021]
+                  - generic [ref=f18e2022]
+              - button "Review options for review by Paulina Papież" [ref=f18e2029] [cursor=pointer]
+            - generic [ref=f18e2034]: 2 years ago
+            - generic [ref=f18e2232]:
+              - generic [ref=f18e2233]: NIE POLECAM. Brak profesjonalizmu, niezbyt mądre odzywki podczas nauki jazd w stronę kursanta jak i innych ludzi. Niepotrzebne wypowiadanie się na temat wiary i upodobań innych. Instruktor chaotyczny, ciagłe rozmowy telefoniczne i kilkukrotne jazdy na stacje paliw w trakcie nauki jazd. W tle ciagle radio maryja… Gdy popełni się błąd na drodze to krzyk i niemile komentarze, że powinno się to już umieć. Demotywowanie, że nie ma możliwości zdania egzaminu państwowego praktycznego po 30 godzinach nauki jazd. Kilkukrotnie kończyłam jazdy ze łzami w oczach. Przy rezygnacji w trakcie kursu problem ze zwrotem nadpłaty, wmawianie, że w umowie jest inaczej.
+              - button "See translation (English)" [ref=f18e2237] [cursor=pointer]
+            - generic [ref=f18e2055]:
+              - generic [ref=f18e2056]:
+                - button "React to review by Paulina Papież" [ref=f18e2059] [cursor=pointer]
+                - button "30 reactions. Expand reaction summary" [ref=f18e2064] [cursor=pointer]:
+                  - img "30 reactions. Expand reaction summary" [ref=f18e2065]
+              - button "Share review by Paulina Papież" [ref=f18e2069]
+          - generic [ref=f18e2074]:
+            - generic [ref=f18e2075]:
+              - link "Arkadiusz Winiarski Arkadiusz Winiarski Local Guide84 reviews8 photos" [ref=f18e2076] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/117810389579222150788/reviews?hl=en-GB
+                - generic [ref=f18e2077]:
+                  - img "Arkadiusz Winiarski" [ref=f18e2079]
+                  - generic [ref=f18e2080]
+              - button "Review options for review by Arkadiusz Winiarski" [ref=f18e2087] [cursor=pointer]
+            - generic [ref=f18e2092]: 4 years ago
+            - generic [ref=f18e2238]:
+              - generic [ref=f18e2239]: Najgorsza Szkoła jazdy w Krakowie, kurs kończyłem tam parę lat temu i musiałem odejść, bo ciągle było naciąganie na dodatkowe jazdy twierdzac, że nie jezdze jeszcze poprawnie i nie chciano mnie dopuscic do egzaminu. W innej szkole bez problemu byłem świetnie przygotowany i zdałem za pierwszym razem, Pan D to typowy naciągacz, który w godzinach jazd zajmuje się swoimi prywatnymi sprawami.
+              - button "See translation (English)" [ref=f18e2243] [cursor=pointer]
+            - generic [ref=f18e2113]:
+              - generic [ref=f18e2114]:
+                - button "React to review by Arkadiusz Winiarski" [ref=f18e2117] [cursor=pointer]
+                - button "43 reactions. Expand reaction summary" [ref=f18e2122] [cursor=pointer]:
+                  - img "43 reactions. Expand reaction summary" [ref=f18e2123]
+              - button "Share review by Arkadiusz Winiarski" [ref=f18e2127]
+          - generic [ref=f18e2132]:
+            - generic [ref=f18e2133]:
+              - link "P P P P Local Guide18 reviews" [ref=f18e2134] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/106968084755312514535/reviews?hl=en-GB
+                - generic [ref=f18e2135]:
+                  - img "P P" [ref=f18e2137]
+                  - generic [ref=f18e2138]
+              - button "Review options for review by P P" [ref=f18e2145] [cursor=pointer]
+            - generic [ref=f18e2150]: 7 years ago
+            - generic [ref=f18e2244]:
+              - generic [ref=f18e2245]: Serdecznie nie polecam. Pan instruktor na każdej godzinie jazd jak i również na egzaminie wewnętrznym załatwia swoje sprawy prywatne telefonicznie. Praktycznie cały kurs(prócz 4 godzin) odbywał się toyota. Zaprezentowanie świateł zawnetrznych odbyło się w środku pojazdu. Po wykupieniu kilku godzin w innej szkole dowiedziałam się, że OSK Sprint Relax nie jeździłam nawet po połowie tras egzaminacyjnych. Radzę trzymać się z daleko od tej szkoły jeśli nie chcecie zmarnować czasu i pieniędzy.
+              - button "See translation (English)" [ref=f18e2249] [cursor=pointer]
+            - generic [ref=f18e2171]:
+              - generic [ref=f18e2172]:
+                - button "React to review by P P" [ref=f18e2175] [cursor=pointer]
+                - button "46 reactions. Expand reaction summary" [ref=f18e2180] [cursor=pointer]:
+                  - img "46 reactions. Expand reaction summary" [ref=f18e2181]
+              - button "Share review by P P" [ref=f18e2185]
+          - generic [ref=f18e2270]:
+            - generic [ref=f18e2271]:
+              - link "Tomasz Spodymek Tomasz Spodymek 1 review" [ref=f18e2272] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/104774893625621554179/reviews?hl=en-GB
+                - generic [ref=f18e2273]:
+                  - img "Tomasz Spodymek" [ref=f18e2275]
+                  - generic [ref=f18e2276]
+              - button "Review options for review by Tomasz Spodymek" [ref=f18e2283] [cursor=pointer]
+            - generic [ref=f18e2288]: 6 years ago
+            - generic [ref=f18e2303]:
+              - generic [ref=f18e2304]: One star for this institution is still too much... But it's impossible to give less.Let me start by saying that I took my driving test for Category A, having a B, and passed on my first attempt - but that wasn't thanks to Mr. Dariusz, who led the classes.I strongly advise against this school to anyone looking for one - those who already know how to drive and those who want to learn.As others have written, the guy is demanding additional fees at the end of the course (I'm surprised no one has sued him yet... or maybe he did). In my case, he took my medical records and said he wouldn't give them back :) - the case ended with the intervention of the police -...he gave them back.It seems Mr. D. is a ridiculous person who wants to make money off everything and has already developed methods that probably work sometimes.If you're doing Category A, be prepared to ride with a "backpack" in the form of Mr. D - he probably doesn't want to waste his fuel on a separate motorcycle.Pay 100, 200, 300 PLN more and choose another decent facility - you won't regret it.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2308] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2309]:
+              - generic [ref=f18e2310]:
+                - button "React to review by Tomasz Spodymek" [ref=f18e2313] [cursor=pointer]
+                - button "39 reactions. Expand reaction summary" [ref=f18e2318] [cursor=pointer]:
+                  - img "39 reactions. Expand reaction summary" [ref=f18e2319]
+              - button "Share review by Tomasz Spodymek" [ref=f18e2323]
+            - generic [ref=f18e2328]:
+              - generic [ref=f18e2330]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e2332]
+                - generic [ref=f18e2333]:
+                  - generic [ref=f18e2334]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e2335]: 6 years ago
+              - generic [ref=f18e2337]:
+                - generic [ref=f18e2338]: Dear Mr. Tomasz,No one at our center forces students to pay extra. Students bring their doctor's certificate to the City Hall, not to the center, so we wouldn't be able to obtain it.Thank you for your comment from a competitor.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e2339] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e2341]:
+            - generic [ref=f18e2342]:
+              - link "Zuzanna d'Obyrn Zuzanna d'Obyrn 7 reviews" [ref=f18e2343] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/114872644336679685733/reviews?hl=en-GB
+                - generic [ref=f18e2344]:
+                  - img "Zuzanna d'Obyrn" [ref=f18e2346]
+                  - generic [ref=f18e2347]
+              - button "Review options for review by Zuzanna d'Obyrn" [ref=f18e2354] [cursor=pointer]
+            - generic [ref=f18e2359]: 3 years ago
+            - generic [ref=f18e2374]:
+              - generic [ref=f18e2375]: During my rides with Mr. D., I often had private phone conversations and took care of personal matters around town. I'd arrange a specific time, but when I arrived, it turned out he was driving with someone else, and I could have an hour instead of the usual two hours of driving when he returned. When I decided to change driving schools and wanted to collect my documents, they tried to force me to pay extra. Only after several phone calls and mentioning a lawyer did they agree to return the documents. The school itself is dingy.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2379] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2380]:
+              - generic [ref=f18e2381]:
+                - button "React to review by Zuzanna d'Obyrn" [ref=f18e2384] [cursor=pointer]
+                - button "27 reactions. Expand reaction summary" [ref=f18e2389] [cursor=pointer]:
+                  - img "27 reactions. Expand reaction summary" [ref=f18e2390]
+              - button "Share review by Zuzanna d'Obyrn" [ref=f18e2394]
+          - generic [ref=f18e2399]:
+            - generic [ref=f18e2400]:
+              - link "zozolek zozolek 2 reviews" [ref=f18e2401] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/115273998848324603735/reviews?hl=en-GB
+                - generic [ref=f18e2402]:
+                  - img "zozolek" [ref=f18e2404]
+                  - generic [ref=f18e2405]
+              - button "Review options for review by zozolek" [ref=f18e2412] [cursor=pointer]
+            - generic [ref=f18e2417]: Edited 8 years ago
+            - generic [ref=f18e2432]:
+              - generic [ref=f18e2433]: I don't recommend it to anyone! Zero respect for the student, straight-up lies, and sheer fraud. If anyone decides to go to this school, they should think twice, because my decision was made too hastily. Just dig in and read the reviews on the forums. I drove for 30 hours and wasn't even introduced to the car's controls. I didn't know where everything was under the hood, how to turn on the lights, etc., and that's where I should have started. I only drove around the driving range a few times during the entire course, and I didn't even feel 50% confident. I wasn't "taught" how to start uphill until the end of the course, when I asked for it. After driving for all the hours, it was time for the internal exams before the driving test, and the instructor immediately assumed I wouldn't pass. He failed me, but it was all my fault, so I have no complaints.During the driving lessons, the instructor would attend to personal matters, sometimes leaving the car for 10-15 minutes. Fortunately, I transferred from that school and I don't regret that decision, because after buying a few extra hours at another school, I passed my exams on the first try.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2437] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2438]:
+              - generic [ref=f18e2439]:
+                - button "React to review by zozolek" [ref=f18e2442] [cursor=pointer]
+                - button "51 reactions. Expand reaction summary" [ref=f18e2447] [cursor=pointer]:
+                  - img "51 reactions. Expand reaction summary" [ref=f18e2448]
+              - button "Share review by zozolek" [ref=f18e2452]
+          - generic [ref=f18e2457]:
+            - generic [ref=f18e2458]:
+              - link "PiRaT1223 PiRaT1223 1 review" [ref=f18e2459] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113222057703456552713/reviews?hl=en-GB
+                - generic [ref=f18e2460]:
+                  - img "PiRaT1223" [ref=f18e2462]
+                  - generic [ref=f18e2463]
+              - button "Review options for review by PiRaT1223" [ref=f18e2470] [cursor=pointer]
+            - generic [ref=f18e2475]: 8 years ago
+            - generic [ref=f18e2490]:
+              - generic [ref=f18e2491]: I wouldn't recommend this driving school to anyone. The instructor is incompetent and minds his own business during the lessons. There were lessons where Mr. Graczyk would snore sweetly (he really did snore), and when he finally did speak, all you could hear were cheap, unfunny, and perverted jokes. I suggest avoiding this school like the plague.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2495] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2496]:
+              - generic [ref=f18e2497]:
+                - button "React to review by PiRaT1223" [ref=f18e2500] [cursor=pointer]
+                - button "35 reactions. Expand reaction summary" [ref=f18e2505] [cursor=pointer]:
+                  - img "35 reactions. Expand reaction summary" [ref=f18e2506]
+              - button "Share review by PiRaT1223" [ref=f18e2510]
+          - generic [ref=f18e2515]:
+            - generic [ref=f18e2516]:
+              - link "Piotr Piotr 1 review" [ref=f18e2517] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111547518714647274650/reviews?hl=en-GB
+                - generic [ref=f18e2518]:
+                  - img "Piotr" [ref=f18e2520]
+                  - generic [ref=f18e2521]
+              - button "Review options for review by Piotr" [ref=f18e2528] [cursor=pointer]
+            - generic [ref=f18e2533]: 6 years ago
+            - generic [ref=f18e2548]:
+              - generic [ref=f18e4085]:
+                - text: Recently, a friend of mine asked me about this school, and I was quite surprised that it has such a high rating. There are plenty of comments here from people who only have one opinion and give it 5 stars :) So, for the benefit of future students, I'll allow myself to describe my feelings about studying at this OSK.Overall, it all comes down to Mr. Dariusz, a seasoned businessman, and his wild "practices." At first, it's pleasant and enjoyable. This begins to change as the course draws to a close. You might find that you're not yet ready for the exam, that it's not quite the right time. Mr. Darek recommends purchasing additional lessons. If you don't purchase additional lessons, 99% of you will fail the internal exam. Mr. Darek has his own ways of doing this.Mr. Dariusz also has other methods in place. Threatening to prevent you from taking the exam, "supposedly" calling MORD, withholding documents. The whole spectrum. You'll surely come across one.As for the teaching itself, I don't have such reservations. It's okay, but the whole hype and money-grabbing thing is a nightmare! On top of that, there's the manipulation, personal matters, and so on.If you don't want to stress yourself out, skip this school. Pay a few hundred extra and you'll have peace and quiet.
+                - generic [ref=f18e4086]:
+                  - generic [ref=f18e4087]: Negative
+                  - generic "Communication, Professionalism" [ref=f18e4088]
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2553] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2554]:
+              - generic [ref=f18e2555]:
+                - button "React to review by Piotr" [ref=f18e2558] [cursor=pointer]
+                - button "53 reactions. Expand reaction summary" [ref=f18e2563] [cursor=pointer]:
+                  - img "53 reactions. Expand reaction summary" [ref=f18e2564]
+              - button "Share review by Piotr" [ref=f18e2568]
+          - generic [ref=f18e2573]:
+            - generic [ref=f18e2574]:
+              - link "Justyna Krezel Justyna Krezel Local Guide18 reviews" [ref=f18e2575] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/105003792529052186590/reviews?hl=en-GB
+                - generic [ref=f18e2576]:
+                  - img "Justyna Krezel" [ref=f18e2578]
+                  - generic [ref=f18e2579]
+              - button "Review options for review by Justyna Krezel" [ref=f18e2586] [cursor=pointer]
+            - generic [ref=f18e2591]: 7 years ago
+            - generic [ref=f18e2606]:
+              - generic [ref=f18e2607]: The school is less than ZERO!!!! Mr. Dariusz always took care of his business during driving lessons. I have a lot to say, but it's a waste of time. In short, they're trying to trick you into buying extra hours and encouraging you to write positive reviews during the course. This school's one plus is a good theory about driving lessons, but it's just a huge scam for extra hours. I passed my driving test the second time, but because I bought a few extra driving lessons at another school, I achieved a completely different level. I DO NOT RECOMMEND THIS SCHOOL UNLESS YOU WANT TO WASTE YOUR MONEY AND TIME. Best regards.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2611] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2612]:
+              - generic [ref=f18e2613]:
+                - button "React to review by Justyna Krezel" [ref=f18e2616] [cursor=pointer]
+                - button "40 reactions. Expand reaction summary" [ref=f18e2621] [cursor=pointer]:
+                  - img "40 reactions. Expand reaction summary" [ref=f18e2622]
+              - button "Share review by Justyna Krezel" [ref=f18e2626]
+          - generic [ref=f18e2631]:
+            - generic [ref=f18e2632]:
+              - link "Marek Dulowski Marek Dulowski Local Guide19 reviews" [ref=f18e2633] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/104229249383976647058/reviews?hl=en-GB
+                - generic [ref=f18e2634]:
+                  - img "Marek Dulowski" [ref=f18e2636]
+                  - generic [ref=f18e2637]
+              - button "Review options for review by Marek Dulowski" [ref=f18e2644] [cursor=pointer]
+            - generic [ref=f18e2649]: 7 years ago
+            - generic [ref=f18e2664]:
+              - generic [ref=f18e2665]: "TL;DR: Hidden costs, unprofessionalism, and a desire to make as much money as possible off a student \"over the dead.\"I joined the center after transferring from another OSK because of the express course option (or at least that's what the website said, which I'll discuss later). Since I'd previously completed theoretical training, I only completed the practical portion (28 hours) at OSK Relax.- No contract --At the beginning of the course, no contract was presented (despite asking about it), only the regulations. In the event of a dispute, you can forget about pursuing your case, as there's no basis for it other than the very general regulations.- \"Express\" course --The website states 21 days for the express course. I signed up at the beginning of July and made it clear that I wanted to save time, so I finished 28 hours of driving (because that's how much time was left after transferring from another OSK) in October (again, this wouldn't have happened if a contract had been signed). And I paid for an accelerated course, as described below.- Hidden costs, \"Janusz Biznesu 1\" --When I made my final payment, I was told that I wouldn't receive my certificates unless I paid for the 3-month course (without theory!) as if it were an accelerated course (which was supposed to last 33 days :) ) (this ultimately led me to describe everything in detail in my review).- Hidden costs, \"Janusz Biznesu 2\" --Hidden costs - although they are included in the regulations, you need to be prepared for about 100 PLN (I don't remember the exact amount) for the internal theory + practice exam. (This, of course, opens up the possibility of profiting from \"failing\" test-takers; the lack of a contract makes it easier. For example, I heard a requirement to \"buy additional driving lessons\" before the state exam (perhaps because I was pressed for time) :) )-- Impertinent behavior --One of the instructors (I'll keep his name to myself) impertinently argued with the company on the phone during the driving lessons – shouting and stressing, not to mention focusing on the road.-- Lack of a plan --Engine components were shown during one of the last driving lessons.++ Some instructors ++Some instructors put a lot of effort into explaining and conducting the practice in a professional manner. I wish them all the best.++ Exact number of hours ++If the driving lessons were scheduled for 2 hours, that's how long they lasted – although I wasn't cheated on that ;) But I guess that's what you pay for?In summary, I strongly advise against using these companies. I hope there are as few of these companies on the market as possible."
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2669] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2670]:
+              - generic [ref=f18e2671]:
+                - button "React to review by Marek Dulowski" [ref=f18e2674] [cursor=pointer]
+                - button "37 reactions. Expand reaction summary" [ref=f18e2679] [cursor=pointer]:
+                  - img "37 reactions. Expand reaction summary" [ref=f18e2680]
+              - button "Share review by Marek Dulowski" [ref=f18e2684]
+            - generic [ref=f18e2689]:
+              - generic [ref=f18e2691]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e2693]
+                - generic [ref=f18e2694]:
+                  - generic [ref=f18e2695]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e2696]: 7 years ago
+              - generic [ref=f18e2698]:
+                - generic [ref=f18e2699]: Mr. Marek, you joined us from another driving school. You were very dissatisfied with the course because of the long waiting times and poor theory skills. When you chose and registered for our driving school, the secretary informed you about the registration process, which you accepted. You were also informed that after completing the course hours, there would be an internal exam, which is subject to a fee. This information is also posted in our office and online. No one hides any costs.Please indicate which driving school offers the exam free of charge (the course fee and the additional exam are not included).Other driving schools offer internal driving exams over 30 hours, which the student still pays for because they didn't complete the required 30 hours.Regarding the driving school dates, you were informed that this period might be extended because it was a vacation period. You also went away for a dozen or so days and took a break during the course. Regarding scheduling the rides, most of the times suggested by the instructor didn't work for you because you were traveling from outside Krakow. You stated that you were dissatisfied with our center. Why didn't you cancel after the 2nd or 3rd hour of riding, like you did with the previous "Arma" center?
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e2700] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e2702]:
+            - generic [ref=f18e2703]:
+              - link "onaZawszePrawde CiPowie onaZawszePrawde CiPowie 2 reviews" [ref=f18e2704] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111591755398907168553/reviews?hl=en-GB
+                - generic [ref=f18e2705]:
+                  - img "onaZawszePrawde CiPowie" [ref=f18e2707]
+                  - generic [ref=f18e2708]
+              - button "Review options for review by onaZawszePrawde CiPowie" [ref=f18e2715] [cursor=pointer]
+            - generic [ref=f18e2720]: Edited 5 months ago
+            - generic [ref=f18e2735]:
+              - generic [ref=f18e4094]:
+                - text: I don't recommend taking a course at this school. The theory portion is great, but the practical portion is a joke. Mr. Dariusz runs errands during the course or tries to convince you that you had an appointment at a different time. There are constant distracting phone calls and rude and rude messages to the student.
+                - generic [ref=f18e4095]:
+                  - generic [ref=f18e4096]: Negative
+                  - generic "Communication, Quality, Professionalism, Value" [ref=f18e4097]
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2740] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2741]:
+              - generic [ref=f18e2742]:
+                - button "React to review by onaZawszePrawde CiPowie" [ref=f18e2745] [cursor=pointer]
+                - button "2 reactions. Expand reaction summary" [ref=f18e2750] [cursor=pointer]:
+                  - img "2 reactions. Expand reaction summary" [ref=f18e2751]
+              - button "Share review by onaZawszePrawde CiPowie" [ref=f18e2755]
+          - generic [ref=f18e2760]:
+            - generic [ref=f18e2761]:
+              - link "Maksymilian K Maksymilian K 2 reviews" [ref=f18e2762] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/100666467209978297960/reviews?hl=en-GB
+                - generic [ref=f18e2763]:
+                  - img "Maksymilian K" [ref=f18e2765]
+                  - generic [ref=f18e2766]
+              - button "Review options for review by Maksymilian K" [ref=f18e2773] [cursor=pointer]
+            - generic [ref=f18e2778]: 6 years ago
+            - generic [ref=f18e2793]:
+              - generic [ref=f18e2794]: This driving school is a complete mess. The theory is perfectly fine! The lectures are great. I enjoyed driving until the D and M instructors snored and shouted. Talking on the phone and texting during driving lessons. Borrowing students' phones for phone calls... I don't recommend it.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2795] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2796]:
+              - generic [ref=f18e2797]:
+                - button "React to review by Maksymilian K" [ref=f18e2800] [cursor=pointer]
+                - button "32 reactions. Expand reaction summary" [ref=f18e2805] [cursor=pointer]:
+                  - img "32 reactions. Expand reaction summary" [ref=f18e2806]
+              - button "Share review by Maksymilian K" [ref=f18e2810]
+          - generic [ref=f18e2815]:
+            - generic [ref=f18e2816]:
+              - link "Patrycja N Patrycja N 13 reviews" [ref=f18e2817] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/107097304961808699954/reviews?hl=en-GB
+                - generic [ref=f18e2818]:
+                  - img "Patrycja N" [ref=f18e2820]
+                  - generic [ref=f18e2821]
+              - button "Review options for review by Patrycja N" [ref=f18e2828] [cursor=pointer]
+            - generic [ref=f18e2833]: 4 years ago
+            - generic [ref=f18e2848]:
+              - generic [ref=f18e2849]: I had a very negative experience with the school, not only in my opinion but also in the opinion of other students. Long deadlines for driving lessons, ridicule for mistakes, and the saying that "there won't be parallel parking on the exam anyway." The only thing I learned after completing the course was a fear of driving. If someone wants to chat while driving instead of studying, I recommend it. During additional lessons at other centers, I was taught to drive without pointing out mistakes.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2853] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2854]:
+              - generic [ref=f18e2855]:
+                - button "React to review by Patrycja N" [ref=f18e2858] [cursor=pointer]
+                - button "28 reactions. Expand reaction summary" [ref=f18e2863] [cursor=pointer]:
+                  - img "28 reactions. Expand reaction summary" [ref=f18e2864]
+              - button "Share review by Patrycja N" [ref=f18e2868]
+          - generic [ref=f18e2873]:
+            - generic [ref=f18e2874]:
+              - link "P P P P Local Guide67 reviews6 photos" [ref=f18e2875] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/103060784264068355430/reviews?hl=en-GB
+                - generic [ref=f18e2876]:
+                  - img "P P" [ref=f18e2878]
+                  - generic [ref=f18e2879]
+              - button "Review options for review by P P" [ref=f18e2886] [cursor=pointer]
+            - generic [ref=f18e2891]: 3 years ago
+            - generic [ref=f18e2906]:
+              - generic [ref=f18e2907]: I absolutely do not recommend this driving school. Mr. D., mentioned multiple times in the comments, is unprofessional, conducts personal business while driving, and makes disgusting jokes. Never again.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2908] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2909]:
+              - generic [ref=f18e2910]:
+                - button "React to review by P P" [ref=f18e2913] [cursor=pointer]
+                - button "19 reactions. Expand reaction summary" [ref=f18e2918] [cursor=pointer]:
+                  - img "19 reactions. Expand reaction summary" [ref=f18e2919]
+              - button "Share review by P P" [ref=f18e2923]
+          - generic [ref=f18e2928]:
+            - generic [ref=f18e2929]:
+              - link "Ania Ania 8 reviews" [ref=f18e2930] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/103059260159516968642/reviews?hl=en-GB
+                - generic [ref=f18e2931]:
+                  - img "Ania" [ref=f18e2933]
+                  - generic [ref=f18e2934]
+              - button "Review options for review by Ania" [ref=f18e2941] [cursor=pointer]
+            - generic [ref=f18e2946]: 3 years ago
+            - generic [ref=f18e2961]:
+              - generic [ref=f18e2962]: I don't recommend it! I transferred to another center halfway through the course.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e2963] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e2964]:
+              - generic [ref=f18e2965]:
+                - button "React to review by Ania" [ref=f18e2968] [cursor=pointer]
+                - button "10 reactions. Expand reaction summary" [ref=f18e2973] [cursor=pointer]:
+                  - img "10 reactions. Expand reaction summary" [ref=f18e2974]
+              - button "Share review by Ania" [ref=f18e2978]
+          - generic [ref=f18e2983]:
+            - generic [ref=f18e2984]:
+              - link "Procjon Procjon Local Guide16 reviews1 photo" [ref=f18e2985] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/105961777173038872963/reviews?hl=en-GB
+                - generic [ref=f18e2986]:
+                  - img "Procjon" [ref=f18e2988]
+                  - generic [ref=f18e2989]
+              - button "Review options for review by Procjon" [ref=f18e2996] [cursor=pointer]
+            - generic [ref=f18e3001]: Edited 4 months ago
+            - generic [ref=f18e3016]:
+              - generic [ref=f18e3017]: Probably bought opinions, the office is in a very poor technical condition, and I haven't even mentioned Mr. Dariusz, whose advice, humor, and temperament are far from accepted cultural canons. He once stopped his car in the middle of Grzegorzecka Street to scold a passerby – an unforgettable experience, being honked through no fault of his own.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3021] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3022]:
+              - generic [ref=f18e3023]:
+                - button "React to review by Procjon" [ref=f18e3026] [cursor=pointer]
+                - button "13 reactions. Expand reaction summary" [ref=f18e3031] [cursor=pointer]:
+                  - img "13 reactions. Expand reaction summary" [ref=f18e3032]
+              - button "Share review by Procjon" [ref=f18e3036]
+          - generic [ref=f18e3041]:
+            - generic [ref=f18e3042]:
+              - link "Mel0dy Mel0dy 4 reviews" [ref=f18e3043] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/115796445581493193422/reviews?hl=en-GB
+                - generic [ref=f18e3044]:
+                  - img "Mel0dy" [ref=f18e3046]
+                  - generic [ref=f18e3047]
+              - button "Review options for review by Mel0dy" [ref=f18e3054] [cursor=pointer]
+            - generic [ref=f18e3059]: a year ago
+            - generic [ref=f18e3074]:
+              - generic [ref=f18e3075]: Overall, it's okay. That's all I can say.The theory lessons are very specific; there's an unfriendly environment for asking questions, there's a lot of back-and-forth, you're being harassed for not knowing every detail of the rules you're about to learn, and so on.Driving lessons are an even bigger mess. Cancelling lessons because other students had to pass, regularly causing anxiety behind the wheel, and dealing with personal matters while driving were standard.So, it must be said, there are also positives. After failing the first time, there were phone calls, analysis, and help. And in the end, I passed the exam without any major problems.Generally, you need to carefully consider what you want from the course and how much you're willing to sacrifice.Best regards.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3079] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3080]:
+              - generic [ref=f18e3081]:
+                - button "React to review by Mel0dy" [ref=f18e3084] [cursor=pointer]
+                - button "19 reactions. Expand reaction summary" [ref=f18e3089] [cursor=pointer]:
+                  - img "19 reactions. Expand reaction summary" [ref=f18e3090]
+              - button "Share review by Mel0dy" [ref=f18e3094]
+          - generic [ref=f18e3099]:
+            - generic [ref=f18e3100]:
+              - link "Magdalena Oramus Magdalena Oramus 2 reviews" [ref=f18e3101] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/118154455727385048126/reviews?hl=en-GB
+                - generic [ref=f18e3102]:
+                  - img "Magdalena Oramus" [ref=f18e3104]
+                  - generic [ref=f18e3105]
+              - button "Review options for review by Magdalena Oramus" [ref=f18e3112] [cursor=pointer]
+            - generic [ref=f18e3117]: 7 years ago
+            - generic [ref=f18e3132]:
+              - generic [ref=f18e3133]: Reading some of the comments, I feel like I'm at a completely different driving school. Driving with Mr. Dariusz was very stressful. My biggest mistake was staying with that school until the end of my course. It wasn't until I took refresher courses at other driving schools that I realized what it means to have a good, professional instructor who doesn't talk on the phone for half the time and clearly explains driving maneuvers.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3137] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3138]:
+              - generic [ref=f18e3139]:
+                - button "React to review by Magdalena Oramus" [ref=f18e3142] [cursor=pointer]
+                - button "31 reactions. Expand reaction summary" [ref=f18e3147] [cursor=pointer]:
+                  - img "31 reactions. Expand reaction summary" [ref=f18e3148]
+              - button "Share review by Magdalena Oramus" [ref=f18e3152]
+          - generic [ref=f18e3157]:
+            - generic [ref=f18e3158]:
+              - link "Wladimir Kowalsky Wladimir Kowalsky Local Guide80 reviews28 photos" [ref=f18e3159] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/106677280584102560898/reviews?hl=en-GB
+                - generic [ref=f18e3160]:
+                  - img "Wladimir Kowalsky" [ref=f18e3162]
+                  - generic [ref=f18e3163]
+              - button "Review options for review by Wladimir Kowalsky" [ref=f18e3170] [cursor=pointer]
+            - generic [ref=f18e3175]: Edited 9 years ago
+            - generic [ref=f18e3190]:
+              - generic [ref=f18e3191]: The owner/(head) instructor is a boor and an irresponsible person on the road
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3192] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3193]:
+              - generic [ref=f18e3194]:
+                - button "React to review by Wladimir Kowalsky" [ref=f18e3197] [cursor=pointer]
+                - button "20 reactions. Expand reaction summary" [ref=f18e3202] [cursor=pointer]:
+                  - img "20 reactions. Expand reaction summary" [ref=f18e3203]
+              - button "Share review by Wladimir Kowalsky" [ref=f18e3207]
+          - generic [ref=f18e3212]:
+            - generic [ref=f18e3213]:
+              - link "Marta Stokłosa Marta Stokłosa 4 reviews" [ref=f18e3214] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/101106797865865269500/reviews?hl=en-GB
+                - generic [ref=f18e3215]:
+                  - img "Marta Stokłosa" [ref=f18e3217]
+                  - generic [ref=f18e3218]
+              - button "Review options for review by Marta Stokłosa" [ref=f18e3225] [cursor=pointer]
+            - generic [ref=f18e3230]: Edited 6 years ago
+          - generic [ref=f18e3245]:
+            - generic [ref=f18e3246]:
+              - link "Sebastian Klimas Sebastian Klimas 3 reviews" [ref=f18e3247] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/107504539835725980391/reviews?hl=en-GB
+                - generic [ref=f18e3248]:
+                  - img "Sebastian Klimas" [ref=f18e3250]
+                  - generic [ref=f18e3251]
+              - button "Review options for review by Sebastian Klimas" [ref=f18e3258] [cursor=pointer]
+            - generic [ref=f18e3263]: Edited 6 years ago
+            - generic [ref=f18e3278]:
+              - generic [ref=f18e3279]: Good driving school, interesting and informative lectures, kind and knowledgeable lecturers, and knowledgeable instructors. Expensive ;/
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3280] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3281]:
+              - generic [ref=f18e3282]:
+                - button "React to review by Sebastian Klimas" [ref=f18e3285] [cursor=pointer]
+                - button "24 reactions. Expand reaction summary" [ref=f18e3290] [cursor=pointer]:
+                  - img "24 reactions. Expand reaction summary" [ref=f18e3291]
+              - button "Share review by Sebastian Klimas" [ref=f18e3295]
+          - generic [ref=f18e3300]:
+            - generic [ref=f18e3301]:
+              - link "Kamil Jaromin Kamil Jaromin Local Guide19 reviews3 photos" [ref=f18e3302] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/100407332368406567769/reviews?hl=en-GB
+                - generic [ref=f18e3303]:
+                  - img "Kamil Jaromin" [ref=f18e3305]
+                  - generic [ref=f18e3306]
+              - button "Review options for review by Kamil Jaromin" [ref=f18e3313] [cursor=pointer]
+            - generic [ref=f18e3318]: 7 months ago
+            - generic [ref=f18e3333]:
+              - generic [ref=f18e3334]: I passed the first time.I think I was taught really well. Which doesn't mean I don't have any complaints. I recommend reading the whole thing.The driving lessons quickly became unpleasant. The instructor's comments were unnecessarily sarcastic and irritating for a long time."Do we drive on the right or the left in Poland?""Do you work as a window washer? Because you make those movements when you turn the steering wheel."About 10 hours into the driving test, I confronted Mr. Dariusz directly. He told me he gave me those comments because they helped me remember things better. And seriously, at that moment, I saw how much sense it made. From that moment on, I wasn't so irritated and could enjoy the course normally. Instead of getting frustrated by the comments, I often asked for details, which the instructor explained perfectly. The key to making the most of those driving lessons was simply a positive attitude.The course would have been truly excellent if I hadn't had such a hard time with the initial driving lessons.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3338] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3339]:
+              - generic [ref=f18e3340]:
+                - button "React to review by Kamil Jaromin" [ref=f18e3343] [cursor=pointer]
+                - generic [ref=f18e3348]: ❤️9
+              - button "Share review by Kamil Jaromin" [ref=f18e3351]
+            - generic [ref=f18e3356]:
+              - generic [ref=f18e3358]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3360]
+                - generic [ref=f18e3361]:
+                  - generic [ref=f18e3362]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3363]: 7 months ago
+              - generic [ref=f18e3365]:
+                - generic [ref=f18e3366]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3367] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3369]:
+            - generic [ref=f18e3370]:
+              - link "Natalia Widz Natalia Widz 4 reviews" [ref=f18e3371] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/101495046788785739391/reviews?hl=en-GB
+                - generic [ref=f18e3372]:
+                  - img "Natalia Widz" [ref=f18e3374]
+                  - generic [ref=f18e3375]
+              - button "Review options for review by Natalia Widz" [ref=f18e3382] [cursor=pointer]
+            - generic [ref=f18e3387]: a month ago
+            - generic [ref=f18e3400]:
+              - generic [ref=f18e3401]: Great price
+              - generic [ref=f18e3404]:
+                - generic [ref=f18e3405]: The instructors conduct the classes well and clearly. It's great that the opening hours are long enough for everyone to adjust their schedule.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3406] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3407]:
+              - generic [ref=f18e3408]:
+                - button "React to review by Natalia Widz" [ref=f18e3411] [cursor=pointer]
+                - generic [ref=f18e3416]: ❤️6
+              - button "Share review by Natalia Widz" [ref=f18e3419]
+            - generic [ref=f18e3424]:
+              - generic [ref=f18e3426]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3428]
+                - generic [ref=f18e3429]:
+                  - generic [ref=f18e3430]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3431]: a month ago
+              - generic [ref=f18e3433]:
+                - generic [ref=f18e3434]: Thank you for your feedback.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3435] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3437]:
+            - generic [ref=f18e3438]:
+              - link "Julia Widz Julia Widz 2 reviews" [ref=f18e3439] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/118130789112417832113/reviews?hl=en-GB
+                - generic [ref=f18e3440]:
+                  - img "Julia Widz" [ref=f18e3442]
+                  - generic [ref=f18e3443]
+              - button "Review options for review by Julia Widz" [ref=f18e3450] [cursor=pointer]
+            - generic [ref=f18e3455]: 5 months ago
+            - generic [ref=f18e3470]:
+              - generic [ref=f18e3471]: The course was well-run, no complaints. The instructors were friendly. I recommend it!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3472] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3473]:
+              - generic [ref=f18e3474]:
+                - button "React to review by Julia Widz" [ref=f18e3477] [cursor=pointer]
+                - generic [ref=f18e3482]: ❤️5
+              - button "Share review by Julia Widz" [ref=f18e3485]
+            - generic [ref=f18e3490]:
+              - generic [ref=f18e3492]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3494]
+                - generic [ref=f18e3495]:
+                  - generic [ref=f18e3496]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3497]: 5 months ago
+              - generic [ref=f18e3499]:
+                - generic [ref=f18e3500]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3501] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3503]:
+            - generic [ref=f18e3504]:
+              - link "Kamil Kromka Kamil Kromka 5 reviews" [ref=f18e3505] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/110114594019280395951/reviews?hl=en-GB
+                - generic [ref=f18e3506]:
+                  - img "Kamil Kromka" [ref=f18e3508]
+                  - generic [ref=f18e3509]
+              - button "Review options for review by Kamil Kromka" [ref=f18e3516] [cursor=pointer]
+            - generic [ref=f18e3521]: 4 years ago
+            - generic [ref=f18e3536]:
+              - generic [ref=f18e3537]: Overall, I recommend it.As for the instructors, they're effective at teaching and teaching how to think while driving. They have experience teaching and a wide range of knowledge, and they're very patient.As for the courses themselves, they're conducted in a relaxed manner, with a sense of humor, but they also make you think.The only things I could find fault with are the timing of the driving lessons/lectures and some confusing situations (rare, but they did happen). Other than that, everything was a plus :)Best regards,Kamil K.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3541] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3542]:
+              - generic [ref=f18e3543]:
+                - button "React to review by Kamil Kromka" [ref=f18e3546] [cursor=pointer]
+                - button "23 reactions. Expand reaction summary" [ref=f18e3551] [cursor=pointer]:
+                  - img "23 reactions. Expand reaction summary" [ref=f18e3552]
+              - button "Share review by Kamil Kromka" [ref=f18e3556]
+            - generic [ref=f18e3561]:
+              - generic [ref=f18e3563]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3565]
+                - generic [ref=f18e3566]:
+                  - generic [ref=f18e3567]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3568]: 4 years ago
+              - generic [ref=f18e3570]:
+                - generic [ref=f18e3571]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3572] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3574]:
+            - generic [ref=f18e3575]:
+              - link "Faustyna Rachwał Faustyna Rachwał 3 reviews" [ref=f18e3576] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111688430067763341113/reviews?hl=en-GB
+                - generic [ref=f18e3577]:
+                  - img "Faustyna Rachwał" [ref=f18e3579]
+                  - generic [ref=f18e3580]
+              - button "Review options for review by Faustyna Rachwał" [ref=f18e3587] [cursor=pointer]
+            - generic [ref=f18e3592]: 8 years ago
+            - generic [ref=f18e3607]:
+              - generic [ref=f18e3608]: Thanks to this school, I managed to pass my driving test. A big plus is that I didn't have to wait long for the dates. The instructors didn't shorten the driving lessons. Mr. Maciej encourages you to think while driving, so you learn to drive properly.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3609] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3610]:
+              - generic [ref=f18e3611]:
+                - button "React to review by Faustyna Rachwał" [ref=f18e3614] [cursor=pointer]
+                - button "15 reactions. Expand reaction summary" [ref=f18e3619] [cursor=pointer]:
+                  - img "15 reactions. Expand reaction summary" [ref=f18e3620]
+              - button "Share review by Faustyna Rachwał" [ref=f18e3624]
+          - generic [ref=f18e3629]:
+            - generic [ref=f18e3630]:
+              - link "Szymon Wolak Szymon Wolak 8 reviews" [ref=f18e3631] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/105245851076855699043/reviews?hl=en-GB
+                - generic [ref=f18e3632]:
+                  - img "Szymon Wolak" [ref=f18e3634]
+                  - generic [ref=f18e3635]
+              - button "Review options for review by Szymon Wolak" [ref=f18e3642] [cursor=pointer]
+            - generic [ref=f18e3647]: 5 years ago
+            - generic [ref=f18e3662]:
+              - generic [ref=f18e3663]: Everything is fine, but the driving lessons are scheduled every week and not all of them are planned in advance, which makes the 30-hour training relatively long.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e3664] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e3665]:
+              - generic [ref=f18e3666]:
+                - button "React to review by Szymon Wolak" [ref=f18e3669] [cursor=pointer]
+                - button "18 reactions. Expand reaction summary" [ref=f18e3674] [cursor=pointer]:
+                  - img "18 reactions. Expand reaction summary" [ref=f18e3675]
+              - button "Share review by Szymon Wolak" [ref=f18e3679]
+            - generic [ref=f18e3684]:
+              - generic [ref=f18e3686]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3688]
+                - generic [ref=f18e3689]:
+                  - generic [ref=f18e3690]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3691]: 5 years ago
+              - generic [ref=f18e3693]:
+                - generic [ref=f18e3694]: Hello, the delays were caused by the coronavirus, but thank you, Mr. Szymon, for your feedback. Best regards and best wishes.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3695] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3697]:
+            - generic [ref=f18e3698]:
+              - link "Mehrdad Rowhani Mehrdad Rowhani 8 reviews2 photos" [ref=f18e3699] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113032646399504544872/reviews?hl=en-GB
+                - generic [ref=f18e3700]:
+                  - img "Mehrdad Rowhani" [ref=f18e3702]
+                  - generic [ref=f18e3703]
+              - button "Review options for review by Mehrdad Rowhani" [ref=f18e3710] [cursor=pointer]
+            - generic [ref=f18e3715]: a year ago
+            - generic [ref=f18e3728]: As an English speaker, I attended this school. In addition to their reasonable prices and kind cooperation in scheduling classes, Magda and Darek were both skilled and caring instructors. Definitely recommended, especially for those who are not familiar with the Polish language.
+            - generic [ref=f18e3730]:
+              - generic [ref=f18e3731]:
+                - button "React to review by Mehrdad Rowhani" [ref=f18e3734] [cursor=pointer]
+                - button "12 reactions. Expand reaction summary" [ref=f18e3739] [cursor=pointer]:
+                  - img "12 reactions. Expand reaction summary" [ref=f18e3740]
+              - button "Share review by Mehrdad Rowhani" [ref=f18e3744]
+            - generic [ref=f18e3749]:
+              - generic [ref=f18e3751]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3753]
+                - generic [ref=f18e3754]:
+                  - generic [ref=f18e3755]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3756]: a year ago
+              - generic [ref=f18e3758]:
+                - generic [ref=f18e3759]: Thank you for your kind comment. Best regards and we wish you all the best.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3760] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3762]:
+            - generic [ref=f18e3763]:
+              - link "Эльмир Рамазанов Эльмир Рамазанов 3 reviews1 photo" [ref=f18e3764] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111773640621989622419/reviews?hl=en-GB
+                - generic [ref=f18e3765]:
+                  - img "Эльмир Рамазанов" [ref=f18e3767]
+                  - generic [ref=f18e3768]
+              - button "Review options for review by Эльмир Рамазанов" [ref=f18e3775] [cursor=pointer]
+            - generic [ref=f18e3780]: 9 months ago
+            - generic [ref=f18e3793]: Super )))
+            - generic [ref=f18e3795]:
+              - generic [ref=f18e3796]:
+                - button "React to review by Эльмир Рамазанов" [ref=f18e3799] [cursor=pointer]
+                - generic [ref=f18e3804]: ❤️6
+              - button "Share review by Эльмир Рамазанов" [ref=f18e3807]
+            - generic [ref=f18e3812]:
+              - generic [ref=f18e3814]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3816]
+                - generic [ref=f18e3817]:
+                  - generic [ref=f18e3818]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3819]: 9 months ago
+              - generic [ref=f18e3821]:
+                - generic [ref=f18e3822]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3823] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3825]:
+            - generic [ref=f18e3826]:
+              - link "Gustavo Gustavo 8 reviews" [ref=f18e3827] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/106814714266499970122/reviews?hl=en-GB
+                - generic [ref=f18e3828]:
+                  - img "Gustavo" [ref=f18e3830]
+                  - generic [ref=f18e3831]
+              - button "Review options for review by Gustavo" [ref=f18e3838] [cursor=pointer]
+            - generic [ref=f18e3843]: 3 years ago
+            - generic [ref=f18e3856]: Super !
+            - generic [ref=f18e3858]:
+              - generic [ref=f18e3859]:
+                - button "React to review by Gustavo" [ref=f18e3862] [cursor=pointer]
+                - button "13 reactions. Expand reaction summary" [ref=f18e3867] [cursor=pointer]:
+                  - img "13 reactions. Expand reaction summary" [ref=f18e3868]
+              - button "Share review by Gustavo" [ref=f18e3872]
+            - generic [ref=f18e3877]:
+              - generic [ref=f18e3879]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3881]
+                - generic [ref=f18e3882]:
+                  - generic [ref=f18e3883]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3884]: 3 years ago
+              - generic [ref=f18e3886]:
+                - generic [ref=f18e3887]: Thanks for the review
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3888] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3890]:
+            - generic [ref=f18e3891]:
+              - link "Witold Drexler Witold Drexler 2 reviews" [ref=f18e3892] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/109613969765572403435/reviews?hl=en-GB
+                - generic [ref=f18e3893]:
+                  - img "Witold Drexler" [ref=f18e3895]
+                  - generic [ref=f18e3896]
+              - button "Review options for review by Witold Drexler" [ref=f18e3903] [cursor=pointer]
+            - generic [ref=f18e3908]: 2 years ago
+            - generic [ref=f18e3921]: Super
+            - generic [ref=f18e3923]:
+              - generic [ref=f18e3924]:
+                - button "React to review by Witold Drexler" [ref=f18e3927] [cursor=pointer]
+                - button "11 reactions. Expand reaction summary" [ref=f18e3932] [cursor=pointer]:
+                  - img "11 reactions. Expand reaction summary" [ref=f18e3933]
+              - button "Share review by Witold Drexler" [ref=f18e3937]
+            - generic [ref=f18e3942]:
+              - generic [ref=f18e3944]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e3946]
+                - generic [ref=f18e3947]:
+                  - generic [ref=f18e3948]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e3949]: 2 years ago
+              - generic [ref=f18e3951]:
+                - generic [ref=f18e3952]: Thank you for your 5-star rating and review. Best regards and best wishes.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e3953] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e3955]:
+            - generic [ref=f18e3956]:
+              - link "Nicole Lipiński Nicole Lipiński Local Guide19 reviews17 photos" [ref=f18e3957] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111639759712285574686/reviews?hl=en-GB
+                - generic [ref=f18e3958]:
+                  - img "Nicole Lipiński" [ref=f18e3960]
+                  - generic [ref=f18e3961]
+              - button "Review options for review by Nicole Lipiński" [ref=f18e3968] [cursor=pointer]
+            - generic [ref=f18e3973]: 9 years ago
+            - generic [ref=f18e3986]: Super
+            - generic [ref=f18e3988]:
+              - generic [ref=f18e3989]:
+                - button "React to review by Nicole Lipiński" [ref=f18e3992] [cursor=pointer]
+                - button "17 reactions. Expand reaction summary" [ref=f18e3997] [cursor=pointer]:
+                  - img "17 reactions. Expand reaction summary" [ref=f18e3998]
+              - button "Share review by Nicole Lipiński" [ref=f18e4002]
+          - generic [ref=f18e4007]:
+            - generic [ref=f18e4008]:
+              - link "Viviana Mazur Viviana Mazur 1 review1 photo" [ref=f18e4009] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/112390814228832498151/reviews?hl=en-GB
+                - generic [ref=f18e4010]:
+                  - img "Viviana Mazur" [ref=f18e4012]
+                  - generic [ref=f18e4013]
+              - button "Review options for review by Viviana Mazur" [ref=f18e4020] [cursor=pointer]
+            - generic [ref=f18e4025]: 2 months ago
+            - generic [ref=f18e4040]:
+              - generic [ref=f18e4041]: I highly recommend this driving school! The instructor is very good at explaining things, is patient, and explains everything clearly. Another big plus is the high availability of driving lessons, which means you can schedule your driving lessons very quickly, so the entire course runs smoothly and without long waits.I'd also like to mention that I signed up for the course less than two weeks ago and have already driven 20 hours. It's the perfect driving school for those who want to get their driving license quickly.I recommend it to everyone!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4045] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4046]:
+              - generic [ref=f18e4047]:
+                - button "React to review by Viviana Mazur" [ref=f18e4050] [cursor=pointer]
+                - generic [ref=f18e4055]: ❤️7
+              - button "Share review by Viviana Mazur" [ref=f18e4058]
+            - generic [ref=f18e4063]:
+              - generic [ref=f18e4065]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4067]
+                - generic [ref=f18e4068]:
+                  - generic [ref=f18e4069]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4070]: 2 months ago
+              - generic [ref=f18e4072]:
+                - generic [ref=f18e4073]: Thank you for your comment.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4074] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4112]:
+            - generic [ref=f18e4113]:
+              - link "Weronika Pyzik Weronika Pyzik 2 reviews" [ref=f18e4114] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/103885608537407987107/reviews?hl=en-GB
+                - generic [ref=f18e4115]:
+                  - img "Weronika Pyzik" [ref=f18e4117]
+                  - generic [ref=f18e4118]
+              - button "Review options for review by Weronika Pyzik" [ref=f18e4125] [cursor=pointer]
+            - generic [ref=f18e4130]: a month ago
+            - generic [ref=f18e4145]:
+              - generic [ref=f18e4148]:
+                - text: At school, I only took the first aid course and practical driving lessons. Relax was the only school in Krakow that was able to offer the course exactly how and when I needed it. The office was easily arranged, and then the driving schedule was fully adapted to my availability. Despite my limited time, the entire practical driving course was quick, which was a huge plus for me.For an inexperienced person with no previous driving experience, the beginning was difficult, but I definitely managed to improve a lot over time with the instructor's help. The classes were substantive, with Mr. Dariusz explaining every mistake and how I could correct it. We worked on each problematic issue until things started going better and I understood what had gone wrong before. I can definitely say that after all the practice and training, driving isn't as stressful anymore, and I can easily approach maneuvers that seemed so terrifying :DI think I can also recommend that the school prepares you for driving, not just for passing the exam, because the emphasis was on feeling more confident behind the wheel and understanding what you're doing, not just learning dry actions without knowing how to apply them in real traffic.
+                - generic [ref=f18e4149]:
+                  - generic [ref=f18e4150]: Services
+                  - generic "Private lessons, Adult lessons" [ref=f18e4151]
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4152] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4153]:
+              - generic [ref=f18e4154]:
+                - button "React to review by Weronika Pyzik" [ref=f18e4157] [cursor=pointer]
+                - generic [ref=f18e4162]: ❤️7
+              - button "Share review by Weronika Pyzik" [ref=f18e4165]
+            - generic [ref=f18e4170]:
+              - generic [ref=f18e4172]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4174]
+                - generic [ref=f18e4175]:
+                  - generic [ref=f18e4176]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4177]: a month ago
+              - generic [ref=f18e4179]:
+                - generic [ref=f18e4180]: Thank you for your feedback.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4181] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4183]:
+            - generic [ref=f18e4184]:
+              - link "Hlib Usichenko Hlib Usichenko Local Guide2 reviews347 photos" [ref=f18e4185] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/105344821237369084989/reviews?hl=en-GB
+                - generic [ref=f18e4186]:
+                  - img "Hlib Usichenko" [ref=f18e4188]
+                  - generic [ref=f18e4189]
+              - button "Review options for review by Hlib Usichenko" [ref=f18e4196] [cursor=pointer]
+            - generic [ref=f18e4201]: 2 months ago
+            - generic [ref=f18e4216]:
+              - generic [ref=f18e4217]: I recommend OSK Relax Sprint!I'm very happy with the school because results are what matter most – and here you'll definitely learn to drive well and confidently. It's worth noting that the instructor has a rather strict, demanding approach. Whether this style of learning suits you is entirely up to you, but if you're looking for effectiveness, it's a great choice.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4220] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4221]:
+              - generic [ref=f18e4222]:
+                - button "React to review by Hlib Usichenko" [ref=f18e4225] [cursor=pointer]
+                - generic [ref=f18e4230]: ❤️7
+              - button "Share review by Hlib Usichenko" [ref=f18e4233]
+            - generic [ref=f18e4238]:
+              - generic [ref=f18e4240]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4242]
+                - generic [ref=f18e4243]:
+                  - generic [ref=f18e4244]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4245]: 2 months ago
+              - generic [ref=f18e4247]:
+                - generic [ref=f18e4248]: Thank you for your comment.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4249] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4251]:
+            - generic [ref=f18e4252]:
+              - link "Piotrek - Piotrek - 1 review" [ref=f18e4253] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/105505961801604501106/reviews?hl=en-GB
+                - generic [ref=f18e4254]:
+                  - img "Piotrek -" [ref=f18e4256]
+                  - generic [ref=f18e4257]
+              - button "Review options for review by Piotrek -" [ref=f18e4264] [cursor=pointer]
+            - generic [ref=f18e4269]: 3 months ago
+            - generic [ref=f18e4284]:
+              - generic [ref=f18e4285]: "I recommend the driving school. Long practice hours are available from morning to evening. A sensible approach: a few hours outside the city, followed by driving around the city and exploring key roads near the previously selected test center. Instructor Dariusz is calm and understanding of any mistakes, which he then explains. If a student doesn't understand something, he explains it in layman's terms. I recommend it.A big plus for punctuality. Always a minute's start and full practice hours, which is rare these days."
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4288] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4289]:
+              - generic [ref=f18e4290]:
+                - button "React to review by Piotrek -" [ref=f18e4293] [cursor=pointer]
+                - generic [ref=f18e4298]: ❤️6
+              - button "Share review by Piotrek -" [ref=f18e4301]
+            - generic [ref=f18e4306]:
+              - generic [ref=f18e4308]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4310]
+                - generic [ref=f18e4311]:
+                  - generic [ref=f18e4312]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4313]: 3 months ago
+              - generic [ref=f18e4315]:
+                - generic [ref=f18e4316]: Thank you for your comment.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4317] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4319]:
+            - generic [ref=f18e4320]:
+              - link "Wojciech Smogór Wojciech Smogór 1 review" [ref=f18e4321] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/115857468457830757444/reviews?hl=en-GB
+                - generic [ref=f18e4322]:
+                  - img "Wojciech Smogór" [ref=f18e4324]
+                  - generic [ref=f18e4325]
+              - button "Review options for review by Wojciech Smogór" [ref=f18e4332] [cursor=pointer]
+            - generic [ref=f18e4337]: 3 months ago
+            - generic [ref=f18e4352]:
+              - generic [ref=f18e4353]: I highly recommend this driving school. The instructor was patient, calm, and explained everything thoroughly, making the driving sessions stress-free. The atmosphere was great, and the instructions were always helpful and specific.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4354] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4355]:
+              - generic [ref=f18e4356]:
+                - button "React to review by Wojciech Smogór" [ref=f18e4359] [cursor=pointer]
+                - generic [ref=f18e4364]: ❤️5
+              - button "Share review by Wojciech Smogór" [ref=f18e4367]
+            - generic [ref=f18e4372]:
+              - generic [ref=f18e4374]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4376]
+                - generic [ref=f18e4377]:
+                  - generic [ref=f18e4378]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4379]: 3 months ago
+              - generic [ref=f18e4381]:
+                - generic [ref=f18e4382]: Thank you for sharing your opinion with us.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4383] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4385]:
+            - generic [ref=f18e4386]:
+              - link "Aleksander Podlejski Aleksander Podlejski 1 review" [ref=f18e4387] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111004602782236876340/reviews?hl=en-GB
+                - generic [ref=f18e4388]:
+                  - img "Aleksander Podlejski" [ref=f18e4390]
+                  - generic [ref=f18e4391]
+              - button "Review options for review by Aleksander Podlejski" [ref=f18e4398] [cursor=pointer]
+            - generic [ref=f18e4403]: 2 months ago
+            - generic [ref=f18e4418]:
+              - generic [ref=f18e4419]: Driving lessons take place in a friendly atmosphere, and each lesson provides a wealth of practical knowledge and valuable tips. The instructor pays attention to details that may be important during the exam, allowing you to better prepare for independent driving. I highly recommend it.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4420] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4421]:
+              - generic [ref=f18e4422]:
+                - button "React to review by Aleksander Podlejski" [ref=f18e4425] [cursor=pointer]
+                - generic [ref=f18e4430]: ❤️7
+              - button "Share review by Aleksander Podlejski" [ref=f18e4433]
+            - generic [ref=f18e4438]:
+              - generic [ref=f18e4440]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4442]
+                - generic [ref=f18e4443]:
+                  - generic [ref=f18e4444]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4445]: 2 months ago
+              - generic [ref=f18e4447]:
+                - generic [ref=f18e4448]: Thank you for your feedback.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4449] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4451]:
+            - generic [ref=f18e4452]:
+              - link "KIRO KIRO 1 review" [ref=f18e4453] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108586757441791821178/reviews?hl=en-GB
+                - generic [ref=f18e4454]:
+                  - img "KIRO" [ref=f18e4456]
+                  - generic [ref=f18e4457]
+              - button "Review options for review by KIRO" [ref=f18e4464] [cursor=pointer]
+            - generic [ref=f18e4469]: 3 months ago
+            - generic [ref=f18e4484]:
+              - generic [ref=f18e4485]: Great driving school! Professional and patient instructors, a friendly atmosphere, and flexible driving schedules. Everything was explained clearly and without stress. I recommend it to anyone who wants to prepare well for their driving test and feel confident behind the wheel.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4486] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4487]:
+              - generic [ref=f18e4488]:
+                - button "React to review by KIRO" [ref=f18e4491] [cursor=pointer]
+                - generic [ref=f18e4496]: ❤️5
+              - button "Share review by KIRO" [ref=f18e4499]
+            - generic [ref=f18e4504]:
+              - generic [ref=f18e4506]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4508]
+                - generic [ref=f18e4509]:
+                  - generic [ref=f18e4510]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4511]: 3 months ago
+              - generic [ref=f18e4513]:
+                - generic [ref=f18e4514]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4515] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4517]:
+            - generic [ref=f18e4518]:
+              - link "Wojciech Smogór Wojciech Smogór 1 review" [ref=f18e4519] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108539038926992472808/reviews?hl=en-GB
+                - generic [ref=f18e4520]:
+                  - img "Wojciech Smogór" [ref=f18e4522]
+                  - generic [ref=f18e4523]
+              - button "Review options for review by Wojciech Smogór" [ref=f18e4530] [cursor=pointer]
+            - generic [ref=f18e4535]: 2 months ago
+            - generic [ref=f18e4550]:
+              - generic [ref=f18e4551]: I definitely recommend this driving school. The lessons were conducted in a friendly atmosphere, and the instructor was patient and able to explain everything clearly. Each session was well-spent and allowed me to gain confidence behind the wheel.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4552] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4553]:
+              - generic [ref=f18e4554]:
+                - button "React to review by Wojciech Smogór" [ref=f18e4557] [cursor=pointer]
+                - generic [ref=f18e4562]: ❤️7
+              - button "Share review by Wojciech Smogór" [ref=f18e4565]
+            - generic [ref=f18e4570]:
+              - generic [ref=f18e4572]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4574]
+                - generic [ref=f18e4575]:
+                  - generic [ref=f18e4576]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4577]: 2 months ago
+              - generic [ref=f18e4579]:
+                - generic [ref=f18e4580]: Thank you for your feedback.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4581] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4583]:
+            - generic [ref=f18e4584]:
+              - link "Wasyl Sydoryk Wasyl Sydoryk 11 reviews" [ref=f18e4585] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/115658501414971638477/reviews?hl=en-GB
+                - generic [ref=f18e4586]:
+                  - img "Wasyl Sydoryk" [ref=f18e4588]
+                  - generic [ref=f18e4589]
+              - button "Review options for review by Wasyl Sydoryk" [ref=f18e4596] [cursor=pointer]
+            - generic [ref=f18e4601]: 4 months ago
+            - generic [ref=f18e4616]:
+              - generic [ref=f18e4617]: The best driving school!!! I recommend instructor Dariusz to everyone. He's a very nice guy, he guides you through the entire course and explains everything.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4618] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4619]:
+              - generic [ref=f18e4620]:
+                - button "React to review by Wasyl Sydoryk" [ref=f18e4623] [cursor=pointer]
+                - generic [ref=f18e4628]: ❤️8
+              - button "Share review by Wasyl Sydoryk" [ref=f18e4631]
+            - generic [ref=f18e4636]:
+              - generic [ref=f18e4638]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4640]
+                - generic [ref=f18e4641]:
+                  - generic [ref=f18e4642]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4643]: 4 months ago
+              - generic [ref=f18e4645]:
+                - generic [ref=f18e4646]: Thank you very much for sharing your opinion with us.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4647] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4649]:
+            - generic [ref=f18e4650]:
+              - link "Antoni Bojda Antoni Bojda 1 review" [ref=f18e4651] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/118385779183125037219/reviews?hl=en-GB
+                - generic [ref=f18e4652]:
+                  - img "Antoni Bojda" [ref=f18e4654]
+                  - generic [ref=f18e4655]
+              - button "Review options for review by Antoni Bojda" [ref=f18e4662] [cursor=pointer]
+            - generic [ref=f18e4667]: 7 months ago
+            - generic [ref=f18e4682]:
+              - generic [ref=f18e4683]: I highly recommend this driving school. The instructors are patient and professional, and the express course allows you to quickly and effectively prepare for your exam.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4684] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4685]:
+              - generic [ref=f18e4686]:
+                - button "React to review by Antoni Bojda" [ref=f18e4689] [cursor=pointer]
+                - generic [ref=f18e4694]: ❤️8
+              - button "Share review by Antoni Bojda" [ref=f18e4697]
+            - generic [ref=f18e4702]:
+              - generic [ref=f18e4704]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4706]
+                - generic [ref=f18e4707]:
+                  - generic [ref=f18e4708]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4709]: 7 months ago
+              - generic [ref=f18e4711]:
+                - generic [ref=f18e4712]: Thank you very much for your kind comment.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4713] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4715]:
+            - generic [ref=f18e4716]:
+              - link "Sebastian Świerk Sebastian Świerk 2 reviews" [ref=f18e4717] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/107059039296028959904/reviews?hl=en-GB
+                - generic [ref=f18e4718]:
+                  - img "Sebastian Świerk" [ref=f18e4720]
+                  - generic [ref=f18e4721]
+              - button "Review options for review by Sebastian Świerk" [ref=f18e4728] [cursor=pointer]
+            - generic [ref=f18e4733]: 10 months ago
+            - generic [ref=f18e4748]:
+              - generic [ref=f18e4749]: To be honest, I thought learning to drive would be a boring nightmare, but OSK Relax turned it into coffee and fun! The instructors are so patient they could easily be leading meditations, and after the course, I'm driving like a pro – confident and safe. The exam? I passed first time, relaxed from start to finish! I recommend it to anyone who wants to drive in a friendly atmosphere and without stress!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4752] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4753]:
+              - generic [ref=f18e4754]:
+                - button "React to review by Sebastian Świerk" [ref=f18e4757] [cursor=pointer]
+                - generic [ref=f18e4762]: ❤️8
+              - button "Share review by Sebastian Świerk" [ref=f18e4765]
+            - generic [ref=f18e4770]:
+              - generic [ref=f18e4772]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4774]
+                - generic [ref=f18e4775]:
+                  - generic [ref=f18e4776]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4777]: 10 months ago
+              - generic [ref=f18e4779]:
+                - generic [ref=f18e4780]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4781] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4783]:
+            - generic [ref=f18e4784]:
+              - link "Kuba Łopata Kuba Łopata 1 review" [ref=f18e4785] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/116393885264739001738/reviews?hl=en-GB
+                - generic [ref=f18e4786]:
+                  - img "Kuba Łopata" [ref=f18e4788]
+                  - generic [ref=f18e4789]
+              - button "Review options for review by Kuba Łopata" [ref=f18e4796] [cursor=pointer]
+            - generic [ref=f18e4801]: 6 months ago
+            - generic [ref=f18e4816]:
+              - generic [ref=f18e4817]: I highly recommend this driving school. Mr. Dariusz is a patient and experienced instructor who explains road situations well, without pressure and with understanding. He also has a great sense of humor during the driving lessons.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4818] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4819]:
+              - generic [ref=f18e4820]:
+                - button "React to review by Kuba Łopata" [ref=f18e4823] [cursor=pointer]
+                - generic [ref=f18e4828]: ❤️8
+              - button "Share review by Kuba Łopata" [ref=f18e4831]
+            - generic [ref=f18e4836]:
+              - generic [ref=f18e4838]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4840]
+                - generic [ref=f18e4841]:
+                  - generic [ref=f18e4842]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4843]: 6 months ago
+              - generic [ref=f18e4845]:
+                - generic [ref=f18e4846]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4847] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4849]:
+            - generic [ref=f18e4850]:
+              - link "Hanna Plokhova Hanna Plokhova 5 reviews" [ref=f18e4851] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113831793997443150956/reviews?hl=en-GB
+                - generic [ref=f18e4852]:
+                  - img "Hanna Plokhova" [ref=f18e4854]
+                  - generic [ref=f18e4855]
+              - button "Review options for review by Hanna Plokhova" [ref=f18e4862] [cursor=pointer]
+            - generic [ref=f18e4867]: 5 months ago
+            - generic [ref=f18e4882]:
+              - generic [ref=f18e4883]: A great driving school with professional and patient instructors who ensure stress-free learning and successful exams.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4884] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4885]:
+              - generic [ref=f18e4886]:
+                - button "React to review by Hanna Plokhova" [ref=f18e4889] [cursor=pointer]
+                - generic [ref=f18e4894]: ❤️9
+              - button "Share review by Hanna Plokhova" [ref=f18e4897]
+            - generic [ref=f18e4902]:
+              - generic [ref=f18e4904]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4906]
+                - generic [ref=f18e4907]:
+                  - generic [ref=f18e4908]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4909]: 5 months ago
+              - generic [ref=f18e4911]:
+                - generic [ref=f18e4912]: Thank you for your positive feedback
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4913] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4915]:
+            - generic [ref=f18e4916]:
+              - link "Тарсі Б. Тарсі Б. 1 review" [ref=f18e4917] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/116831539841577743757/reviews?hl=en-GB
+                - generic [ref=f18e4918]:
+                  - img "Тарсі Б." [ref=f18e4920]
+                  - generic [ref=f18e4921]
+              - button "Review options for review by Тарсі Б." [ref=f18e4928] [cursor=pointer]
+            - generic [ref=f18e4933]: 9 months ago
+            - generic [ref=f18e4948]:
+              - generic [ref=f18e4949]: I'm very happy with this driving school. The staff are polite and helpful, and the driving lessons were conducted in a relaxed atmosphere. The instructor was very patient and always willing to explain everything. I highly recommend it.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e4950] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e4951]:
+              - generic [ref=f18e4952]:
+                - button "React to review by Тарсі Б." [ref=f18e4955] [cursor=pointer]
+                - generic [ref=f18e4960]: ❤️7
+              - button "Share review by Тарсі Б." [ref=f18e4963]
+            - generic [ref=f18e4968]:
+              - generic [ref=f18e4970]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e4972]
+                - generic [ref=f18e4973]:
+                  - generic [ref=f18e4974]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e4975]: 9 months ago
+              - generic [ref=f18e4977]:
+                - generic [ref=f18e4978]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e4979] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e4981]:
+            - generic [ref=f18e4982]:
+              - link "Kamil Borowiec Kamil Borowiec 6 reviews" [ref=f18e4983] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/116632601525316673322/reviews?hl=en-GB
+                - generic [ref=f18e4984]:
+                  - img "Kamil Borowiec" [ref=f18e4986]
+                  - generic [ref=f18e4987]
+              - button "Review options for review by Kamil Borowiec" [ref=f18e4994] [cursor=pointer]
+            - generic [ref=f18e4999]: 2 months ago
+            - generic [ref=f18e5014]:
+              - generic [ref=f18e5015]: Competent and professional driver training. Fast and flexible schedule. Highly recommended.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5016] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5017]:
+              - generic [ref=f18e5018]:
+                - button "React to review by Kamil Borowiec" [ref=f18e5021] [cursor=pointer]
+                - generic [ref=f18e5026]: ❤️5
+              - button "Share review by Kamil Borowiec" [ref=f18e5029]
+            - generic [ref=f18e5034]:
+              - generic [ref=f18e5036]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5038]
+                - generic [ref=f18e5039]:
+                  - generic [ref=f18e5040]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5041]: 2 months ago
+              - generic [ref=f18e5043]:
+                - generic [ref=f18e5044]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5045] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5047]:
+            - generic [ref=f18e5048]:
+              - link "Mateusz Czajka Mateusz Czajka 3 reviews" [ref=f18e5049] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113236705245495839916/reviews?hl=en-GB
+                - generic [ref=f18e5050]:
+                  - img "Mateusz Czajka" [ref=f18e5052]
+                  - generic [ref=f18e5053]
+              - button "Review options for review by Mateusz Czajka" [ref=f18e5060] [cursor=pointer]
+            - generic [ref=f18e5065]: 11 months ago
+            - generic [ref=f18e5080]:
+              - generic [ref=f18e5081]: I highly recommend this driving school. Mr. Dariusz is a very good instructor, understanding, helpful, and teaches you how to drive very well. I recommend every new student to sign up for the course!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5082] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5083]:
+              - generic [ref=f18e5084]:
+                - button "React to review by Mateusz Czajka" [ref=f18e5087] [cursor=pointer]
+                - generic [ref=f18e5092]: ❤️6
+              - button "Share review by Mateusz Czajka" [ref=f18e5095]
+            - generic [ref=f18e5100]:
+              - generic [ref=f18e5102]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5104]
+                - generic [ref=f18e5105]:
+                  - generic [ref=f18e5106]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5107]: 11 months ago
+              - generic [ref=f18e5109]:
+                - generic [ref=f18e5110]: Thank you very much for sharing your opinion with us. Best regards and we wish you all the best.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5111] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5113]:
+            - generic [ref=f18e5114]:
+              - link "Bogumił Ślusarz Bogumił Ślusarz 5 reviews" [ref=f18e5115] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113687055540880321080/reviews?hl=en-GB
+                - generic [ref=f18e5116]:
+                  - img "Bogumił Ślusarz" [ref=f18e5118]
+                  - generic [ref=f18e5119]
+              - button "Review options for review by Bogumił Ślusarz" [ref=f18e5126] [cursor=pointer]
+            - generic [ref=f18e5131]: a year ago
+            - generic [ref=f18e5146]:
+              - generic [ref=f18e5147]: I highly recommend him! After a three-year break from driving, I booked a driving lesson with Dariusz. He was understanding, friendly, and helpful. He also immediately scheduled a driving lesson for me after just one phone call. Driving with him made me feel very comfortable and calm. He practiced everything I needed to know, and thanks to him, I feel more confident and ready to drive on my own.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5150] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5151]:
+              - generic [ref=f18e5152]:
+                - button "React to review by Bogumił Ślusarz" [ref=f18e5155] [cursor=pointer]
+                - button "10 reactions. Expand reaction summary" [ref=f18e5160] [cursor=pointer]:
+                  - img "10 reactions. Expand reaction summary" [ref=f18e5161]
+              - button "Share review by Bogumił Ślusarz" [ref=f18e5165]
+            - generic [ref=f18e5170]:
+              - generic [ref=f18e5172]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5174]
+                - generic [ref=f18e5175]:
+                  - generic [ref=f18e5176]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5177]: a year ago
+              - generic [ref=f18e5179]:
+                - generic [ref=f18e5180]: Thank you very much for sharing your opinion with us.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5181] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5183]:
+            - generic [ref=f18e5184]:
+              - link "Magdalena Magdalena 1 review" [ref=f18e5185] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/103902109682498657555/reviews?hl=en-GB
+                - generic [ref=f18e5186]:
+                  - img "Magdalena" [ref=f18e5188]
+                  - generic [ref=f18e5189]
+              - button "Review options for review by Magdalena" [ref=f18e5196] [cursor=pointer]
+            - generic [ref=f18e5201]: a year ago
+            - generic [ref=f18e5216]:
+              - generic [ref=f18e5217]: I attended a category A course. Mr. Dariusz thoroughly explained all the maneuvers and provided plenty of practical tips, both for tasks on the track and in the city. A big plus was the flexibility in scheduling rides – it was easy to fit the dates into my schedule. I feel well prepared for the exam and my further motorcycle adventure, and I highly recommend it :)
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5220] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5221]:
+              - generic [ref=f18e5222]:
+                - button "React to review by Magdalena" [ref=f18e5225] [cursor=pointer]
+                - generic [ref=f18e5230]: ❤️8
+              - button "Share review by Magdalena" [ref=f18e5233]
+            - generic [ref=f18e5238]:
+              - generic [ref=f18e5240]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5242]
+                - generic [ref=f18e5243]:
+                  - generic [ref=f18e5244]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5245]: a year ago
+              - generic [ref=f18e5247]:
+                - generic [ref=f18e5248]: Thank you very much, Magdalena, for sharing your opinion with us. Best regards and we wish you all the best.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5249] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5251]:
+            - generic [ref=f18e5252]:
+              - link "Weronika Kopacz Weronika Kopacz 4 reviews" [ref=f18e5253] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/113704620403795754423/reviews?hl=en-GB
+                - generic [ref=f18e5254]:
+                  - img "Weronika Kopacz" [ref=f18e5256]
+                  - generic [ref=f18e5257]
+              - button "Review options for review by Weronika Kopacz" [ref=f18e5264] [cursor=pointer]
+            - generic [ref=f18e5269]: 2 years ago
+            - generic [ref=f18e5284]:
+              - generic [ref=f18e5285]: A very professional and reliable driving school. I recommend it to anyone who's nervous about their first driving lessons. Mr. Dariusz patiently explains the rules and regulations of the road, but he's also very demanding, so you can feel completely prepared for the exam after the course!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5286] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5287]:
+              - generic [ref=f18e5288]:
+                - button "React to review by Weronika Kopacz" [ref=f18e5291] [cursor=pointer]
+                - button "16 reactions. Expand reaction summary" [ref=f18e5296] [cursor=pointer]:
+                  - img "16 reactions. Expand reaction summary" [ref=f18e5297]
+              - button "Share review by Weronika Kopacz" [ref=f18e5301]
+            - generic [ref=f18e5306]:
+              - generic [ref=f18e5308]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5310]
+                - generic [ref=f18e5311]:
+                  - generic [ref=f18e5312]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5313]: 2 years ago
+              - generic [ref=f18e5315]:
+                - generic [ref=f18e5316]: Thank you very much for your kind comment. Best regards and we wish you all the best.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5317] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5319]:
+            - generic [ref=f18e5320]:
+              - link "Nel Kup Nel Kup 4 reviews" [ref=f18e5321] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/116005102232299572584/reviews?hl=en-GB
+                - generic [ref=f18e5322]:
+                  - img "Nel Kup" [ref=f18e5324]
+                  - generic [ref=f18e5325]
+              - button "Review options for review by Nel Kup" [ref=f18e5332] [cursor=pointer]
+            - generic [ref=f18e5337]: a year ago
+            - generic [ref=f18e5352]:
+              - generic [ref=f18e5353]: I highly recommend this driving school. The opportunity to drive on the test routes allows you to master the driving skills before your exam. The instructor pays close attention to road signs and tricky areas where you need to be especially vigilant during the exam. Good communication with the office and hassle-free scheduling of driving lessons.
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5356] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5357]:
+              - generic [ref=f18e5358]:
+                - button "React to review by Nel Kup" [ref=f18e5361] [cursor=pointer]
+                - button "18 reactions. Expand reaction summary" [ref=f18e5366] [cursor=pointer]:
+                  - img "18 reactions. Expand reaction summary" [ref=f18e5367]
+              - button "Share review by Nel Kup" [ref=f18e5371]
+            - generic [ref=f18e5376]:
+              - generic [ref=f18e5378]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5380]
+                - generic [ref=f18e5381]:
+                  - generic [ref=f18e5382]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5383]: a year ago
+              - generic [ref=f18e5385]:
+                - generic [ref=f18e5386]: Thank you very much for your kind comment. Best regards and we wish you all the best.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5387] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5389]:
+            - generic [ref=f18e5390]:
+              - link "Karolina Kozłowska Karolina Kozłowska Local Guide28 reviews5 photos" [ref=f18e5391] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/109798410049848290856/reviews?hl=en-GB
+                - generic [ref=f18e5392]:
+                  - img "Karolina Kozłowska" [ref=f18e5394]
+                  - generic [ref=f18e5395]
+              - button "Review options for review by Karolina Kozłowska" [ref=f18e5402] [cursor=pointer]
+            - generic [ref=f18e5407]: a year ago
+            - generic [ref=f18e5422]:
+              - generic [ref=f18e5423]: I'm writing this review without having taken a course at this driving school. BUT, what's important is that I had a crisis before my exam (my school refused to schedule lessons on short notice), and the person I spoke with immediately found me a driving lesson. THANK YOU SO MUCH!! I passed my exam!
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5424] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5425]:
+              - generic [ref=f18e5426]:
+                - button "React to review by Karolina Kozłowska" [ref=f18e5429] [cursor=pointer]
+                - generic [ref=f18e5434]: ❤️10
+              - button "Share review by Karolina Kozłowska" [ref=f18e5437]
+            - generic [ref=f18e5442]:
+              - generic [ref=f18e5444]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5446]
+                - generic [ref=f18e5447]:
+                  - generic [ref=f18e5448]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5449]: a year ago
+              - generic [ref=f18e5451]:
+                - generic [ref=f18e5452]: Thank you for your opinion
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5453] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e5455]:
+            - generic [ref=f18e5456]:
+              - link "Rafał Miziołek Rafał Miziołek 6 reviews" [ref=f18e5457] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/115826453591844507766/reviews?hl=en-GB
+                - generic [ref=f18e5458]:
+                  - img "Rafał Miziołek" [ref=f18e5460]
+                  - generic [ref=f18e5461]
+              - button "Review options for review by Rafał Miziołek" [ref=f18e5468] [cursor=pointer]
+            - generic [ref=f18e5473]: Edited 9 months ago
+            - generic [ref=f18e5488]:
+              - generic [ref=f18e5489]: The instructors provide valuable tips and clarify any doubts. Driving lessons are conducted on time and as agreed. The atmosphere during the course is great. I passed my driving test on the first try. I highly recommend it 😀
+              - button "Translated by GoogleSee original (Polish)" [ref=f18e5490] [cursor=pointer]: Translated by Google·See original (Polish)
+            - generic [ref=f18e5491]:
+              - generic [ref=f18e5492]:
+                - button "React to review by Rafał Miziołek" [ref=f18e5495] [cursor=pointer]
+                - generic [ref=f18e5500]: ❤️8
+              - button "Share review by Rafał Miziołek" [ref=f18e5503]
+            - generic [ref=f18e5508]:
+              - generic [ref=f18e5510]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e5512]
+                - generic [ref=f18e5513]:
+                  - generic [ref=f18e5514]: Nauka jazdy Kraków OSK-Relax Sprint (owner)
+                  - generic [ref=f18e5515]: a year ago
+              - generic [ref=f18e5517]:
+                - generic [ref=f18e5518]: Thank you, Mr. Rafał, for sharing your opinion with us. Best regards and best wishes.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e5519] [cursor=pointer]: Translated by Google·See original (Polish)
+```

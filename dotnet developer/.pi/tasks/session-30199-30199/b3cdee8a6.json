@@ -1,0 +1,18 @@
+{
+  "id": "b3cdee8a6",
+  "name": "Postgres view verification",
+  "command": "cd ~/projects/data-collector && docker rm -f setl-pg >/dev/null 2>&1; docker run -d --name setl-pg -e POSTGRES_PASSWORD=pg -p 55432:5432 postgres:17-alpine >/dev/null && for i in $(seq 1 60); do docker exec setl-pg pg_isready -U postgres >/dev/null 2>&1 && break; sleep 1; done && docker cp migrations setl-pg:/m && docker cp sql setl-pg:/s && docker exec setl-pg psql -v ON_ERROR_STOP=1 -U postgres -f /m/001_support_tickets.sql && for f in sql/*.sql; do echo \"--- $f\"; docker exec setl-pg psql -v ON_ERROR_STOP=1 -U postgres -f \"/s/$(basename $f)\" || exit 1; done && DATABASE_URL=\"Host=localhost;Port=55432;Username=postgres;Password=pg;Database=postgres\" dotnet test -c Release 2>&1 | tail -6 && docker exec setl-pg psql -U postgres -c \"select count(*) from support_tickets\" -c \"select * from section_f_inputs\" -c \"select * from section_d_open_tickets\"",
+  "status": "completed",
+  "outputPath": ".pi/tasks/session-30199-30199/b3cdee8a6.output",
+  "cwd": "/home/artyom-a/projects/ai-toolbox/dotnet developer",
+  "startTime": 1788815571009,
+  "endTime": 1788815582731,
+  "exitCode": 0,
+  "signal": null,
+  "pid": 31456,
+  "bytesWritten": 2274,
+  "isAgent": false,
+  "notified": true,
+  "notifyOnCompletion": true,
+  "triggerOnCompletion": true
+}

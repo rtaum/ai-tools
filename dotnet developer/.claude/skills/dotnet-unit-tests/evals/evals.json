@@ -1,0 +1,42 @@
+{
+  "skill_name": "dotnet-unit-tests",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Add unit tests for the discount behavior in this .NET service. Several customer tiers should get different discount rates, and invalid tiers should be rejected. Use the test style already present in the repo.",
+      "expected_output": "Adds behavior-focused xUnit tests using Shouldly assertions, parameterizes tier/rate cases, and avoids class-internal coupling.",
+      "files": [],
+      "expectations": [
+        "Uses xUnit tests with Shouldly assertions.",
+        "Uses a Theory with InlineData or MemberData for repeated discount-rate cases.",
+        "Names tests around discount behavior using GivenWhenThen-style names without underscores.",
+        "Runs or reports the narrowest relevant dotnet test command."
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Write tests for accepting an invitation. The service depends on a repository, a clock, and an email sender. Scenarios need different repository returns and current times. Mock only what matters for each scenario.",
+      "expected_output": "Adds unit tests for invitation-acceptance behavior, uses NSubstitute for dependencies, and creates a small reusable builder because scenarios vary dependency setup.",
+      "files": [],
+      "expectations": [
+        "Uses NSubstitute for repository, clock, and email sender collaborators.",
+        "Creates a reusable test builder or equivalent helper with safe defaults for dependencies.",
+        "Each test customizes only dependencies relevant to that scenario.",
+        "Test names do not include Async even when testing async production methods.",
+        "Avoids method-call verification unless the interaction itself is essential to correctness.",
+        "Constructs collaborator behavior so required external calls are proven by the test outcome when practical."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "I need tests for order cancellation, but I'm not sure whether the unit is the command handler, the domain method, or the API endpoint. Please add the right unit tests.",
+      "expected_output": "Does not guess the unit boundary; asks a concise clarifying question before writing tests.",
+      "files": [],
+      "expectations": [
+        "Asks for clarification because the unit boundary is ambiguous.",
+        "Mentions plausible boundaries such as command handler, domain behavior, or endpoint.",
+        "Does not write tests before the boundary is clarified."
+      ]
+    }
+  ]
+}

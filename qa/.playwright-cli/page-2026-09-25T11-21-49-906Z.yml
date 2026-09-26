@@ -1,0 +1,27 @@
+- generic [active] [ref=f18e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=f18e2] [cursor=pointer]
+      - link "Accessibility help" [ref=f18e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-PL
+  - generic [ref=f18e8]:
+    - search [ref=f18e9]:
+      - generic [ref=f18e12]:
+        - link [ref=f18e13] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQpYkNegQIBhAG
+          - img "Go to Google Home" [ref=f18e14]
+        - generic [ref=f18e19]:
+          - combobox "Search" [ref=f18e22]: Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+          - generic [ref=f18e23]:
+            - button "Clear" [ref=f18e25] [cursor=pointer]
+            - generic [ref=f18e30]:
+              - button "Search by voice" [ref=f18e31] [cursor=pointer]
+              - button "Search by image" [ref=f18e34] [cursor=pointer]
+        - button "Search" [ref=f18e37] [cursor=pointer]
+    - generic [ref=f18e42]:
+      - button "Settings" [ref=f18e44] [cursor=pointer]
+      - button "Share" [ref=f18e45] [cursor=pointer]
+      - generic [ref=f18e51]:
+        - button "Google apps" [ref=f18e53] [cursor=pointer]
+        - link "Sign in" [ref=f18e58] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fhl%3Den-PL%26gl%3Dpl%26q%3DNauka%2Bjazdy%2BKrak%25C3%25B3w%2BOSK-Relax%2BSprint,%2BMarsza%25C5%2582ka%2BJ%25C3%25B3zefa%2BPi%25C5%2582sudskiego%2B38/1A,%2B31-111%2BKrak%25C3%25B3w%26ludocid%3D13592782605807437325%26lsig%3DAB86z5U1y2AYxvT-gVe2pDAFWmmi%26hl%3Den%26gl%3DPL%26sa%3DX%26ved%3D2ahUKEwj7qrzVzomXAxVA5QIHHTk4C34Q3PALegQIHxAQ&ec=futura_srp_og_si_72236_p

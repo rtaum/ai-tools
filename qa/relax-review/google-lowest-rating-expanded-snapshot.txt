@@ -1,0 +1,440 @@
+### Page
+- Page URL: https://www.google.com/search?hl=en-PL&gl=pl&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ludocid=13592782605807437325&lsig=AB86z5U1y2AYxvT-gVe2pDAFWmmi&hl=en&gl=PL&sa=X&ved=2ahUKEwj7qrzVzomXAxVA5QIHHTk4C34Q3PALegQIHxAQ#lrd=0x47165b0b41c00035:0xbca343c32842c60d,1
+- Page Title: Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków - Google Search
+- Console: 12 errors, 0 warnings
+### Snapshot
+```yaml
+- generic [active] [ref=f18e1]:
+  - link [ref=f18e64] [cursor=pointer]: Skip to main content
+  - link [ref=f18e65] [cursor=pointer]:
+    - /url: https://support.google.com/websearch/answer/181196?hl=en-PL
+    - text: Accessibility help
+  - generic [ref=f18e8]:
+    - search [ref=f18e9]:
+      - generic [ref=f18e12]:
+        - link [ref=f18e66] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQpYkNegQIBhAG
+        - generic [ref=f18e19]:
+          - combobox [ref=f18e68]: Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków Nauka jazdy Kraków OSK-Relax Sprint, Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+          - generic [ref=f18e23]:
+            - button [ref=f18e69] [cursor=pointer]
+            - generic [ref=f18e30]:
+              - button [ref=f18e70] [cursor=pointer]
+              - button [ref=f18e71] [cursor=pointer]
+        - button [ref=f18e72] [cursor=pointer]
+    - generic [ref=f18e42]:
+      - button [ref=f18e73] [cursor=pointer]
+      - button [ref=f18e78] [cursor=pointer]
+      - generic [ref=f18e51]:
+        - button [ref=f18e79] [cursor=pointer]
+        - link [ref=f18e80] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/search%3Fhl%3Den-PL%26gl%3Dpl%26q%3DNauka%2Bjazdy%2BKrak%25C3%25B3w%2BOSK-Relax%2BSprint,%2BMarsza%25C5%2582ka%2BJ%25C3%25B3zefa%2BPi%25C5%2582sudskiego%2B38/1A,%2B31-111%2BKrak%25C3%25B3w%26ludocid%3D13592782605807437325%26lsig%3DAB86z5U1y2AYxvT-gVe2pDAFWmmi%26hl%3Den%26gl%3DPL%26sa%3DX%26ved%3D2ahUKEwj7qrzVzomXAxVA5QIHHTk4C34Q3PALegQIHxAQ&ec=futura_srp_og_si_72236_p
+          - generic [ref=f18e59]: Sign in
+  - generic [ref=f18e61]:
+    - navigation [ref=f18e84]:
+      - generic [ref=f18e90]:
+        - list [ref=f18e91]:
+          - listitem [ref=f18e92]:
+            - link [ref=f18e95] [cursor=pointer]:
+              - /url: /search?q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=50&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&vsint=&aep=1&ntc=1&cs=0&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ2J8OegQIDRAD
+              - generic [ref=f18e96]: AI Mode
+          - listitem [ref=f18e99]:
+            - link [disabled] [ref=f18e100]:
+              - generic [ref=f18e101]: All
+          - listitem [ref=f18e103]:
+            - link [ref=f18e104] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQtKgLegQIFhAB
+              - generic [ref=f18e105]: Images
+          - listitem [ref=f18e107]:
+            - link [ref=f18e108] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=39&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQs6gLegQIFxAB
+              - generic [ref=f18e109]: Short videos
+          - listitem [ref=f18e111]:
+            - link [ref=f18e112] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=vids&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQtKgLegQIGBAB
+              - generic [ref=f18e113]: Videos
+          - listitem [ref=f18e115]:
+            - link [ref=f18e116] [cursor=pointer]:
+              - /url: /search?sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&tbm=nws&source=lnms&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ0pQJegQIFRAB
+              - generic [ref=f18e117]: News
+          - listitem [ref=f18e119]:
+            - link [ref=f18e120] [cursor=pointer]:
+              - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&udm=web&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8c4u0nXx4bEIpwm1lnNH832cY0rzciwbWdjW1sV3VNzLwFidMQk-ln2aImlXwRYpp24vkivhSKxJH-vZPKbAT5TBLshvsiHEySLVwcQrggeuypDbn_bWC-8aLfZpP9MBRQXBaF1jS2nyQctrqGKquljSuaqKE&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQs6gLegQIExAB
+              - generic [ref=f18e121]: Web
+          - listitem [ref=f18e123]:
+            - button [ref=f18e124] [cursor=pointer]:
+              - generic [ref=f18e125]: More
+        - button [ref=f18e132] [cursor=pointer]:
+          - generic [ref=f18e133]: Tools
+    - navigation [ref=f18e140]:
+      - navigation [ref=f18e143]:
+        - list [ref=f18e150]:
+          - listitem [ref=f18e151]:
+            - link [ref=f18e152] [cursor=pointer]:
+              - /url: /search?sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=nauka+jazdy+krak%C3%B3w+osk-relax+sprint+reviews&uds=AJ5uw1_a2D0D09lxm8gpKKOTUn4rDGpVLV-J2lF5czJrL5x5Md5D4gmwwHbxdnab2oksu6RD6ilagTjyDc_lfccn2GWA3mlPydtu1NmeU0Do6DPO92WhcdigCbyUwG0JZAb4zHZjcM3YWQWv-OW4SpwEtBoN9NdZK25oG7lXnxC7Y3MPRnzQtyd6XGpZQ4l4KeYuI3-TdtaHFmkOS2mGdXfSx_gThEyBN3uhClnVoMxm9z2w2Otl2QtWRln_wFkeaVD2lSc4o7dd8dJ7D2P51g2b9DjmCtKAlcLiWdTNgyoYVgaWo13nnKk&si=APenkKnzv9m99ToiohAuzpadUwbOz34nZJ3j2Ukmo5XOUYWApvqRAgigX2145JZg1b2REF8pm7s0dye9a2geGZQYACYUxeaU9LFFzqHAwP51JJn7k6LQ-y-UlkI8d-grK64YpFn4Rhbt-HORSQmzGhOJw7wf07uTWRDs-vxc_uJwZB9nRExX8wM%3D&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQxKsJKAB6BAgREAE&ictx=1
+              - generic [ref=f18e153]: Reviews
+    - heading [level=1] [ref=f18e155]: Search Results
+    - main [ref=f18e161]:
+      - region [ref=f18e164]:
+        - generic [ref=f18e171]:
+          - generic [ref=f18e172]:
+            - generic [ref=f18e173]: Sponsored places
+            - button [ref=f18e176] [cursor=pointer]
+          - generic [ref=f18e180]:
+            - list [ref=f18e182]:
+              - button [ref=f18e185] [cursor=pointer]:
+                - generic [ref=f18e186]
+              - button [ref=f18e215] [cursor=pointer]:
+                - generic [ref=f18e216]
+              - button [ref=f18e245] [cursor=pointer]:
+                - generic [ref=f18e246]
+              - button [ref=f18e275] [cursor=pointer]:
+                - generic [ref=f18e276]
+            - button [aria-hidden] [ref=f18e303] [cursor=pointer]
+      - tabpanel [ref=f18e321]:
+        - generic [ref=f18e322]:
+          - generic [ref=f18e325]:
+            - generic [ref=f18e330]:
+              - generic [ref=f18e337]:
+                - button [ref=f18e341] [cursor=pointer]
+                - link [ref=f18e360] [cursor=pointer]:
+                  - /url: /local/place/fid/0x47165b0b41c00035:0xbca343c32842c60d/photosphere?iu=https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid%3DquUlSJqHxxzc7AYHpZBCcg%26cb_client%3Dsearch.gws-prod.gps%26yaw%3D176.75893%26pitch%3D0%26thumbfov%3D100%26w%3D0%26h%3D0&ik=CAISFnF1VWxTSnFIeHh6YzdBWUhwWkJDY2c%3D&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQpx96BAgfEA8
+              - generic [ref=f18e365]:
+                - heading [level=2] [ref=f18e368]: Nauka jazdy Kraków OSK-Relax Sprint
+                - generic [ref=f18e369]
+            - generic [ref=f18e397]:
+              - generic [ref=f18e406]:
+                - link [ref=f18e408] [cursor=pointer]:
+                  - /url: http://osk-relax.com/
+                - link [ref=f18e415]
+                - generic [ref=f18e424] [cursor=pointer]: "+4"
+              - separator [ref=f18e426]
+            - generic [ref=f18e430]:
+              - generic [ref=f18e432]:
+                - generic [ref=f18e434]
+                - generic [ref=f18e442]
+                - generic [ref=f18e447]
+                - link [ref=f18e465] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Suggest an edit
+              - separator [ref=f18e466]
+            - generic [ref=f18e470]:
+              - generic [ref=f18e473]:
+                - generic [ref=f18e474]
+                - link [ref=f18e490] [cursor=pointer]:
+                  - /url: https://search.google.com/local/reviews?placeid=ChIJNQDAQQtbFkcRDcZCKMNDo7w&q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&hl=en&gl=PL&sa=X&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ3PALegQIIRAQ
+                  - text: 555 reviews
+                - generic [ref=f18e491]
+              - separator [ref=f18e499]
+            - generic [ref=f18e505]:
+              - heading [level=3] [ref=f18e506]: Profiles
+              - link [ref=f18e511] [cursor=pointer]:
+                - /url: /goto?url=CAEScgHrOzAVeiIYIqqQem1rXxtkpv9HT0zpSLhw4oke1mrQ4DmBVMYFU3v4iFJ3yg8FcUeonz6FELbCIdBlfRD5Wn-YJlkqMwoK0uAC5A3A0Ar7do7mK87PMLm3Aspna5Jf6koWj2xebsKvg7J5sdJYlfX2lQ
+                - generic [ref=f18e512]: Facebook
+            - generic [ref=f18e525]:
+              - generic [ref=f18e528]:
+                - link [ref=f18e530] [cursor=pointer]:
+                  - /url: /goto?url=CAESiQEB6zswFUMJZLRfibVT2OsIoiydfpAMH8cm_BjCx6MIEoctWsIcPCLMgaCIe7tyxTfM1W8MzOfxFn8iIMeAEmNNx7bSIN3auWU9b1i9SqluVFttoQY_wouhjqJVyoaGsRibVcB4UmVpRyxk5aJREbHzBdi_SeBkDA4JKsPgc5MghEktvs41L32Xgw
+                - button [ref=f18e546] [cursor=pointer]
+              - generic [ref=f18e553]:
+                - text: Super ! See all reviews · Map. Address.
+                - emphasis [ref=f18e554]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. Website. http://osk-relax.com/. Phone. +48 603 588 483 ..."
+            - generic [ref=f18e562]:
+              - generic [ref=f18e565]:
+                - link [ref=f18e567] [cursor=pointer]:
+                  - /url: /goto?url=CAESuQEB6zswFS5vBycs1L2QtBDpxj2dKGYzQwWTJ5TnZTXBZI3APY7z-YCkrFvqLksrXW8wHCup9Mu7shVEhm1aSF6KJ-oXQRywa0M6kpuQNTuytLypEc2oSyXagIuRwXxAjMaLDiTZDD-o2OiLjmKCxLR_TXyCz4vWCJWf3sS-HrY4GJZBZ-4vrgOBjxHxnikknB1bxO51w1sgiq6kMdJYCJq1bIHzvQ29bLih6I30ou0fcES1rim9JtynpA
+                - generic [ref=f18e579]
+                - button [ref=f18e586] [cursor=pointer]
+              - generic [ref=f18e592]:
+                - generic [ref=f18e593]
+                - link [ref=f18e595] [cursor=pointer]:
+                  - /url: /goto?url=CAES3QEB6zswFVxjwCzZLg-P42N41Mp5tsPRs09CBvOH2Kcb_PXaqAXTbPASVZQgky363nFEtlGONR1EIDoQfUQJuhzry4AEoYrq5PWMmwdv8rCYwkxY_xTok3GpfMSFVYBpuuMFI_UHLykfHn3ukZh9fcEiFjInKT63s3J2w0dYA0p4I25FNJos3UHXKZUjlkD-q0o41rSGbgDA4sWjcFFtLzll3Gc67YjVb4pPb-iM68guP8d7ehSVE3-F9aE4xc8TxhhF8fIzNdF6WcTuHd4zDyNLrb35DRqaD9tG6Dackw
+                  - text: Read more
+              - generic [ref=f18e597]:
+                - text: "Missing: OSK- ‎| Show results with:"
+                - link [ref=f18e598] [cursor=pointer]:
+                  - /url: /search?sa=X&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&q=Nauka+jazdy+Krak%C3%B3w+%22OSK-%22+Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&ved=2ahUKEwiYqqnhzomXAxXRxgIHHRt_ACEQ5t4CegQISRAB
+                  - text: OSK-
+            - generic [ref=f18e606]:
+              - generic [ref=f18e609]:
+                - link [ref=f18e611] [cursor=pointer]:
+                  - /url: /goto?url=CAESlwEB6zswFQwpfpONJttCRBRinIFkh31H-0Ns5qULTpqhT7nUl6YaRt2_eomM9UlxrJqRY9EqhqL9tYPS5y5DZDTyq-PUA22TJXimGtR_JHldTNwjTA7A7j2UhuZU3Kb0a7cbBwtovk8RBotuXTXybP2reIzfJGkg2-pfJV83MdB-dIn7aPKXTqAN5S5Sct6OLIYKUibU5YO8
+                - generic [ref=f18e623]
+                - button [ref=f18e630] [cursor=pointer]
+              - generic [ref=f18e637]:
+                - emphasis [ref=f18e638]: marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.com. 14 maja 2026 (czwartek). Prawo jazdy kat ...
+            - generic [ref=f18e646]:
+              - generic [ref=f18e649]:
+                - link [ref=f18e651] [cursor=pointer]:
+                  - /url: /goto?url=CAESkwEB6zswFYP2bMQkzwVgKd7EHjRFWi-7MNjpEaPEp21fKvVOJiOLb_V1cau5OivdpdQc6FepeM_fdiwbMZj0kXvgdPffTbNd1XyXNhF9ELOF33vrIUmkOxBWWS3K2IyyQU595dMbDx6tlHFN5aj_bB8ewZtlE-mBGTiawXMudUhPLLX5_kBK_cheBhELoqPOhxkLaFQ
+                - generic [ref=f18e663]
+                - button [ref=f18e670] [cursor=pointer]
+              - generic [ref=f18e677]:
+                - emphasis [ref=f18e678]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Polen. Webseite. http://osk-relax.com/. Telefon. +48 603 588 483. Stunden. So. Sonntag: Geschlossen. Mo ..."
+            - generic [ref=f18e686]:
+              - generic [ref=f18e689]:
+                - link [ref=f18e691] [cursor=pointer]:
+                  - /url: /goto?url=CAES7wEB6zswFWH2wpFYOZrVNfOZG1DZSTO_tADvutCdntxAxbF6Ge7wi4p86gSNqnf-NSQ96YdEw9619pEfl2XOnK_0aPy5NIM95tKrBQPDlQUIIlDUxfrzY-FbW7mwYI8RRQjUBAlnJM6I8scEDZHCEL0aH-OPNP5gfboc1aVX8NP7MJqyfON8rBmhrNfXjKwymKaiP7_28XHuzcY-7knQCPVbmxszKer6slJC7yjCNLAXDDufk4hgGOyOn2rOGvfFiqT3DgBQFASkpL02u5jqxKxMqqSYwjHjY7f9jLalHjvd54V_A-hY7LqFioZq6gK2IA
+                - generic [ref=f18e703]
+                - button [ref=f18e710] [cursor=pointer]
+              - generic [ref=f18e717]:
+                - text: ... Sprint " s.c. Maria Kowacz , Dariusz Kowacz
+                - emphasis [ref=f18e718]: ul. marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.
+            - generic [ref=f18e726]:
+              - generic [ref=f18e729]:
+                - link [ref=f18e731] [cursor=pointer]:
+                  - /url: /goto?url=CAESkwEB6zswFUi6s1sEIjOueLOSDC5LVd3Bf7YrvdfyZzGqFrFzyJ3MGBUvR2stoiNJ4u8RGpyzepIIzwTSK4KdHoMJaQe0JSsDtW7uc7qSXNo8PSnHtzPTaJT1gABgurewtVW21H-oRw1_PQ5qy4sOatMj-GUgZnsIvjIhk-i_3rWAzyOCV6yf6sAetjoXo0mPJyeGhtA
+                - generic [ref=f18e743]
+                - button [ref=f18e750] [cursor=pointer]
+              - generic [ref=f18e757]:
+                - emphasis [ref=f18e758]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Polen. Hjemmeside. http://osk-relax.com/. Telefon. +48 603 588 483. Timer. sø. søndag: Lukket. mamandag: ..."
+            - generic [ref=f18e766]:
+              - generic [ref=f18e769]:
+                - link [ref=f18e771] [cursor=pointer]:
+                  - /url: /goto?url=CAES_QEB6zswFfrMhxFEZumYJBGLFosDD9yqjTgVvBT1TjO2gMjZOqTYFDh0aa0fsj3pVuJlHn6wNAQ8KmtqDDS__urMl-jY9v-UbJfQP0CRsOYchEQmW01uTrgmJeEqt3_gB7dwc42aNe4mC1ueozbsJzVWAWhwSZsIYs7KKCf2eTdFmVtjwRLMvKNd8QGkBJU1HH_hFO-k2c_89BUMuP-i_ObAR1OP9s617ebO-i0bs9trLR2znCIIaXprP4KORkeHKybDZCRCmkn4uTfh0i6rLiUDyPaJ-sdc4Sb986jij4G9oNUVNPmQrNLWvwyu3vQ0lm-arrOSKhT8VfsYNHH_
+                - generic [ref=f18e783]
+                - button [ref=f18e790] [cursor=pointer]
+              - generic [ref=f18e797]:
+                - text: ... Sprint " s.c. Maria Kowacz , Dariusz Kowacz
+                - emphasis [ref=f18e798]: ul. marsz. Józefa Piłsudskiego 38/1 31-111 Kraków
+                - text: tel. 603 588 483 http://www.osk-relax.com/ prawojazdy.relax@gmail.
+            - generic [ref=f18e806]:
+              - generic [ref=f18e809]:
+                - link [ref=f18e811] [cursor=pointer]:
+                  - /url: /goto?url=CAESeAHrOzAVfbuz1gvVm9-FyQ-58GfnBx5CYNxvkV7bAE8uXLtEFNu_Fu1yaDIui3K8a18SVWLD7j91tZNVabSYbNBGyeBndbXzzDROC3PrVV0mi06ezq6_3GdYixRwGcfirgBi265AynTr1QbpgHTRk_WXbqZYNUdB0w
+                - generic [ref=f18e823]
+                - button [ref=f18e830] [cursor=pointer]
+              - generic [ref=f18e837]:
+                - text: Nauka jazdy Kraków OSK-Relax.
+                - emphasis [ref=f18e838]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. 4.6 (496) · 603 588 483 · Buka Sekarang. osk-relax.com. 1.2 ..."
+            - generic [ref=f18e846]:
+              - generic [ref=f18e849]:
+                - link [ref=f18e851] [cursor=pointer]:
+                  - /url: /goto?url=CAEShAEB6zswFTespHif4nWDSBHqc6izNivJVCAl0xiCsaumB-5bDQisKoPoaE3-RsE528881ZyaDV6oVvrelkhVim_-2AIfsQ0MUkUm2bYh_pJ8Cifozu4HRKD1zXh_n9wPoFhiAmves6_m-x4zxzY7vGpV05c7l02Hwm03PGi5sgciAxjxXDE
+                - generic [ref=f18e863]
+                - button [ref=f18e870] [cursor=pointer]
+              - generic [ref=f18e877]:
+                - text: Nauka jazdy Kraków OSK-Relax.
+                - emphasis [ref=f18e878]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków
+                - text: ", Poland. 4.6 (496) · 603 588 483. osk-relax.com. 9.3 km · EDUCATION ..."
+          - generic [ref=f18e879]:
+            - heading [level=2] [ref=f18e880]: Notices about Filtered Results
+            - paragraph [ref=f18e882]:
+              - generic [ref=f18e883]:
+                - text: In order to show you the most relevant results, we have omitted some entries very similar to the 9 already displayed. If you like, you can
+                - link [ref=f18e884] [cursor=pointer]:
+                  - /url: /search?q=Nauka+jazdy+Krak%C3%B3w+OSK-Relax+Sprint,+Marsza%C5%82ka+J%C3%B3zefa+Pi%C5%82sudskiego+38/1A,+31-111+Krak%C3%B3w&sca_esv=f490e9746bfcf51c&hl=en&gl=PL&sxsrf=APpeQntvsZR2Qgm-5pRoB3PJ5kHu-YdTMA:1790335309739&filter=0
+                  - text: repeat the search with the omitted results included
+                - text: .
+    - contentinfo [ref=f18e886]:
+      - heading [level=1] [ref=f18e887]: Footer links
+      - generic [ref=f18e891]:
+        - generic [ref=f18e893]:
+          - text: Poland
+          - generic [ref=f18e895]:
+            - button [ref=f18e897] [cursor=pointer]:
+              - generic [ref=f18e898]: Prądnik Biały, Kraków
+              - generic [ref=f18e900]:
+                - text: "-"
+                - generic [ref=f18e901]: From your IP address
+            - text: "-"
+            - button [ref=f18e903] [cursor=pointer]: Update location
+        - generic [ref=f18e906]:
+          - link [ref=f18e907] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-PL&fg=1
+            - text: Help
+          - link [ref=f18e908] [cursor=pointer]:
+            - /url: "#"
+            - text: Send feedback
+          - link [ref=f18e909] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-PL&fg=1
+            - text: Privacy
+          - link [ref=f18e910] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-PL&fg=1
+            - text: Terms
+  - dialog [ref=f18e912]:
+    - generic [ref=f18e915]:
+      - generic [ref=f18e916]:
+        - generic [ref=f18e917]:
+          - generic [ref=f18e918]: Nauka jazdy Kraków OSK-Relax Sprint
+          - generic [ref=f18e919]: Marszałka Józefa Piłsudskiego 38/1A, 31-111 Kraków, Poland
+        - button "Write a review" [ref=f18e922]
+      - generic [ref=f18e926]:
+        - text: "4.6"
+        - img "Rated 4.6 out of 5," [ref=f18e927]
+        - generic [ref=f18e930]: 555 reviews
+        - generic [ref=f18e932]:
+          - generic [ref=f18e933]: Reviews aren't verified
+          - button "More info" [ref=f18e936] [cursor=pointer]
+      - generic [ref=f18e941]:
+        - generic [ref=f18e942]: Sort by
+        - radiogroup "Sort reviews" [ref=f18e947]:
+          - radio "Most relevant" [ref=f18e948] [cursor=pointer]
+          - radio "Newest" [ref=f18e951] [cursor=pointer]
+          - radio "Highest rating" [ref=f18e954] [cursor=pointer]
+          - radio "Lowest rating" [checked] [ref=f18e957] [cursor=pointer]
+        - generic [ref=f18e1596]:
+          - generic [ref=f18e1597]:
+            - generic [ref=f18e1598]:
+              - link "Artemy “GMan” Krivenko Artemy “GMan” Krivenko 7 reviews" [ref=f18e1599] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/104515881901334759733/reviews?hl=en-GB
+                - generic [ref=f18e1600]
+              - button "Review options for review by Artemy “GMan” Krivenko" [ref=f18e1610] [cursor=pointer]
+            - generic [ref=f18e1615]: 3 months ago
+            - generic [ref=f18e2190]:
+              - generic [ref=f18e2191]: Nikomu nie polecam tej szkoły jazdy. Pozytywne opinie mogą być zwyczajnie nakręcane — podczas jazd Dariusz (nie potrafię kulturalnie nazwać go „panem”, bo swoim zachowaniem na to nie zasługuje) ciągle wymusza wystawianie pozytywnych opinii, cały czas o tym mówi i sprawdza, czy kursant faktycznie coś napisał.Dla niego normalne jest również załatwianie prywatnych spraw podczas jazd. Potrafi wyjść z samochodu nawet na 20 minut, a kursant i tak płaci za pełną godzinę. Żadnego realnego szkolenia tam nie ma — zamiast uczyć, siedzi na fotelu pasażera i ogląda TikToki. Jako instruktor jest kompletnie beznadziejny.W praktyce kursant staje się jego prywatnym kierowcą i wozi go po jego sprawach za własne, niemałe pieniądze.Omijajcie tę szkołę szerokim łukiem. Jedyny pozytywny aspekt tego miejsca to pani z biura — naprawdę profesjonalna i kompetentna osoba. Bardzo jej życzę znalezienia lepszej pracy niż współpraca z tak agresywnym i niekulturalnym człowiekiem.
+              - button "See translation (English)" [ref=f18e2195] [cursor=pointer]
+            - generic [ref=f18e1636]:
+              - generic [ref=f18e1637]:
+                - button "React to review by Artemy “GMan” Krivenko" [ref=f18e1640] [cursor=pointer]
+                - button "7 reactions. Expand reaction summary" [ref=f18e1645] [cursor=pointer]
+              - button "Share review by Artemy “GMan” Krivenko" [ref=f18e1650]
+          - generic [ref=f18e1655]:
+            - generic [ref=f18e1656]:
+              - link "Magda Magda 1 review" [ref=f18e1657] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/101358027905381051759/reviews?hl=en-GB
+                - generic [ref=f18e1658]
+              - button "Review options for review by Magda" [ref=f18e1668] [cursor=pointer]
+            - generic [ref=f18e1673]: a year ago
+            - generic [ref=f18e2196]:
+              - generic [ref=f18e2197]: Odradzam.- Instruktor podczas jazd na A2 gwiżdże w słuchawkę, śpiewa, często podnosi głos. Notorycznie rozmawia z kimś przez telefon, czy to z rodziną, czy następnym kursantem, czy nawet mechanikiem.- Notorycznie się spóźnia, po czym kończy wcześniej jazdy, co nie jest odnotowywane w karcie kursanta.- Załatwia swoje sprawy w czasie jazd - raz zdarzyła się sytuacja, gdzie przez 20 minut czekałam na niego pod sklepem bo poszedł sobie kupić picie lub innym razem czekałam 15 minut ponieważ musiał zatankować auto i zamówić kawę na stacji, już pomijając inne podobnego typu sytuacje, gdzie czekałam na niego nieco krócej - dany czas nie został odliczony od wyjeżdżonych godzin, tylko zmarnowany.- Kompletnie nieprofesjonalne podejście do kursanta, częste odwoływanie lub przenoszenie umówionych godzin, zapisywanie że nauka została rozpoczęta o konkretnej godzinie, gdzie rozpoczęła się niemalże 20 minut później przez spóźnienie instruktora.- Z bardziej nieprzyjemnych sytuacji - gdy po raz pierwszy przewrócił mi się motor, instruktor rzucił tylko "niech go Pani teraz podnosi" po czym odszedł bez udzielenia żadnych instrukcji i wrócił dopiero po dłuższym czasie.- Brak szacunku do kursanta, zwracanie się per "lady", poniżanie go, budowanie nieprzyjemnej i stresującej atmosfery.- Strasznie słabe tłumaczenie ze strony instruktora, sprawia wrażenie jakby oczekiwał że kursant powinien już sam wszystko umieć i wiedzieć.- Po odbyciu wszystkich godzin instruktor ani razu nie zaprezentował jak się sprawdza stan techniczny pojazdu oraz nie odbył ze mną manewru przemieszczenia pojazdu z wyłączonym silnikiem. Ani razu również nie zostało mi przedstawione hamowanie awaryjne, już nie mówiąc o praktyce tych czynności.- Na dłuższą metę, można odnieść wrażenie że szkoła jest skora do udzielania złej nauki, by doprowadzić do jazd dodatkowych.Zdecydowanie odradzam wybór tej szkoły, w Krakowie jest dostępnych wiele lepszych szkół, w które o wiele bardziej warto zainwestować swój czas i pieniądze.
+              - button "See translation (English)" [ref=f18e2201] [cursor=pointer]
+            - generic [ref=f18e1694]:
+              - generic [ref=f18e1695]:
+                - button "React to review by Magda" [ref=f18e1698] [cursor=pointer]
+                - button "28 reactions. Expand reaction summary" [ref=f18e1703] [cursor=pointer]
+              - button "Share review by Magda" [ref=f18e1708]
+          - generic [ref=f18e1713]:
+            - generic [ref=f18e1714]:
+              - link "Aleksandra Majewska Aleksandra Majewska Local Guide9 reviews" [ref=f18e1715] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/117979330077524099250/reviews?hl=en-GB
+                - generic [ref=f18e1716]
+              - button "Review options for review by Aleksandra Majewska" [ref=f18e1726] [cursor=pointer]
+            - generic [ref=f18e1731]: a year ago
+            - generic [ref=f18e2202]:
+              - generic [ref=f18e2203]: Nie polecam tej szkółki z całego serca. Nie potrzebne odzywki w czasie jazd do samego kursanta jak i do osób trzecich. Częste rozmowy przez telefon, które dekoncentrują. Umawiając się na daną godzinę zachęcam do proszenia o podpis instruktora Pana D. Umawianie się na daną godzinę w danym dniu, a później informacja, że przecież umawialiśmy się na inną godzinę i mówienie, że trzeba zapłacić karę. Twierdzenie, iż rozmowy są nagrywane (bez twojej wiedzy) i wszystko można sprawdzić, a później brak jakichkolwiek informacji na temat tego nagrania bo „auto w naprawie”. Słuchanie radia Maryja to standard.Nie wspominając o umowie, która jest nie zgodna z prawem, gdyż szkółka wymaga zapłaty za przeniesienie dokumentów do innej szkoły jazdy. Klienci są wprowadzeni w błąd, ponieważ na stronie szkoły jest napisane,że egzamin wewnętrzny jest wliczony w cenę, natomiast w umowie jest napisane, że nie. Naprawdę odradzam.
+              - button "See translation (English)" [ref=f18e2207] [cursor=pointer]
+            - generic [ref=f18e1752]:
+              - generic [ref=f18e1753]:
+                - button "React to review by Aleksandra Majewska" [ref=f18e1756] [cursor=pointer]
+                - button "27 reactions. Expand reaction summary" [ref=f18e1761] [cursor=pointer]
+              - button "Share review by Aleksandra Majewska" [ref=f18e1766]
+          - generic [ref=f18e1771]:
+            - generic [ref=f18e1772]:
+              - link "Wiktor Jędrzejewski Wiktor Jędrzejewski 4 reviews" [ref=f18e1773] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108222833987784018718/reviews?hl=en-GB
+                - generic [ref=f18e1774]
+              - button "Review options for review by Wiktor Jędrzejewski" [ref=f18e1784] [cursor=pointer]
+            - generic [ref=f18e1789]: 2 years ago
+            - generic [ref=f18e2208]:
+              - generic [ref=f18e2209]: Nie polecam tej szkoły. Pan Dariusz spóźniał się na jazdy, a w ich trakcie rozmawiał przez telefon i załatwiał swoje prywatne sprawy. Twierdził, że byliśmy umówieni na daną godzinę, gdy nie byliśmy- próbował naciągnąć na dodatkowe jazdy.Atmosfera jazd bardzo nieprzyjemna, a instruktor przejawiał brak cierpliwości i bardzo demotywował. Odradzam każdemu.
+              - button "See translation (English)" [ref=f18e2213] [cursor=pointer]
+            - generic [ref=f18e1810]:
+              - generic [ref=f18e1811]:
+                - button "React to review by Wiktor Jędrzejewski" [ref=f18e1814] [cursor=pointer]
+                - button "19 reactions. Expand reaction summary" [ref=f18e1819] [cursor=pointer]
+              - button "Share review by Wiktor Jędrzejewski" [ref=f18e1824]
+            - generic [ref=f18e1829]:
+              - generic [ref=f18e1831]:
+                - img "Nauka jazdy Kraków OSK-Relax Sprint (owner)" [ref=f18e1833]
+                - generic [ref=f18e1834]
+              - generic [ref=f18e1838]:
+                - generic [ref=f18e1839]: We've never had a course with a person by that name. Instructor Dariusz no longer works with us.
+                - button "Translated by GoogleSee original (Polish)" [ref=f18e1840] [cursor=pointer]: Translated by Google·See original (Polish)
+          - generic [ref=f18e1842]:
+            - generic [ref=f18e1843]:
+              - link "Ja Ja Local Guide15 reviews" [ref=f18e1844] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/108461294082379698822/reviews?hl=en-GB
+                - generic [ref=f18e1845]
+              - button "Review options for review by Ja" [ref=f18e1855] [cursor=pointer]
+            - generic [ref=f18e1860]: 4 years ago
+            - generic [ref=f18e2214]:
+              - generic [ref=f18e2215]: Serdecznie NIE polecam tej śmiesznej szkoły jazdy. Wielokrotnie problemy z Panem Dariuszem, w szczególności umawianie się na termin jazdy. Zazwyczaj to było po 1 h. Prosiłem aby umówić na więcej godzin np 3 gdyż nie ma sensu przyjeżdżać na 1h stojąc w korkach. Odnośnie płatności to był Problem zapłacić z rana gdyż biuro nie było otwarte a P.Dariusz nie ma obowiązku odebrania zapłaty, ale problem z terminem płatności to już tak. Podczas jazd kilka razy zdarzyło mi się jechać na pocztę, podrzucić kolegę czy skrócić czas jazd.( Oczywiście największy był problem kiedy ja się spóźniłem). Cena była kusząca, lecz okazuje się że trzeba doliczyć egzaminy osobno. Najlepiej omijać szerokim łukiem.
+              - button "See translation (English)" [ref=f18e2219] [cursor=pointer]
+            - generic [ref=f18e1881]:
+              - generic [ref=f18e1882]:
+                - button "React to review by Ja" [ref=f18e1885] [cursor=pointer]
+                - button "26 reactions. Expand reaction summary" [ref=f18e1890] [cursor=pointer]
+              - button "Share review by Ja" [ref=f18e1895]
+          - generic [ref=f18e1900]:
+            - generic [ref=f18e1901]:
+              - link "Gabriela Gabriela 2 reviews" [ref=f18e1902] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/110619232108353756915/reviews?hl=en-GB
+                - generic [ref=f18e1903]
+              - button "Review options for review by Gabriela" [ref=f18e1913] [cursor=pointer]
+            - generic [ref=f18e1918]: 8 years ago
+            - generic [ref=f18e2220]:
+              - generic [ref=f18e2221]: Ta opinia będzie dość długa, z racji moich wielu przykrych doświadczeń w tej szkole jazdy. Oczywiście na samym początku muszę napisać, że zdecydowanie nie polecam OSK-Relax. (Pomijam już sam "ośrodek" w kamienicy, która w środku jest bardzo obskurna..) Przechodząc do rzeczy - 3 instruktorów - jeździłam ze wszystkimi, każdy mi mówił co innego. Na samym początku zadając jakiekolwiek pytania dostawałam odpowiedź "a to Pani tego nie wie?" Pomijając - jeden z instruktorów, (z którym jeździłam najczęściej) był bardzo niesympatyczny, wręcz chamski. Obsługę samochodu oraz co się znajduje pod maską pokazano mi praktycznie pod sam koniec jazd, o wiele rzeczy trzeba się upominać. Pan instruktor bardzo często załatwiał swoje sprawy prywatne podczas jazd ze mną, notorycznie rozmawiał przez telefon. Raz umówiłam się na jazdy, miałam wszystko zapisane w kalendarzu, po czym okazało się, że pan instruktor umówił sobie na ten dzień i godzinę inną osobę, wmawiając mi, że musiało mi się coś pomylić, kolejna wręcz komiczna sytuacja - raz przyjechałam pod "ośrodek jazd" czekając z 20 minut, po czym wróciłam do domu i otrzymałam telefon godzinę później z zapytaniem gdzie jestem. Kompletny brak szacunku wobec kursantów... Idąc dalej.. Co innego jest napisane na stronie internetowej, co innego jest w rzeczywistości. Miałam jeździć kia rio, a w większości dostawałam toyote yaris. Za wewnętrzny egzamin teoretyczny trzeba tam płacić, żaden z moich znajomych robiących prawo jazdy z takim czymś się nie spotkał. Jak dla mnie pod każdym względem ta szkoła jazdy okazała się porażką, nie polecam nikomu.
+              - button "See translation (English)" [ref=f18e2225] [cursor=pointer]
+            - generic [ref=f18e1939]:
+              - generic [ref=f18e1940]:
+                - button "React to review by Gabriela" [ref=f18e1943] [cursor=pointer]
+                - button "64 reactions. Expand reaction summary" [ref=f18e1948] [cursor=pointer]
+              - button "Share review by Gabriela" [ref=f18e1953]
+          - generic [ref=f18e1958]:
+            - generic [ref=f18e1959]:
+              - link "Magdalena Sikora Magdalena Sikora 6 reviews1 photo" [ref=f18e1960] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/111757674644306530191/reviews?hl=en-GB
+                - generic [ref=f18e1961]
+              - button "Review options for review by Magdalena Sikora" [ref=f18e1971] [cursor=pointer]
+            - generic [ref=f18e1976]: 3 years ago
+            - generic [ref=f18e2226]:
+              - generic [ref=f18e2227]: Nie polecam! W 2019 roku rozpoczęłam kurs w tej szkole i do teraz mam traumatyczne wspomnienia (jazdy z Panem Dariuszem). Zmieniłam szkołę jazdy w połowie kursu i to była najlepsza decyzja jaką mogłam podjąć!! Spóźnianie się na jazdy, wmawianie, że byliśmy umówieni na inną godzinę jazd i chamskie przyśpiewki w samochodzie to norma. Koszmar...
+              - button "See translation (English)" [ref=f18e2231] [cursor=pointer]
+            - generic [ref=f18e1997]:
+              - generic [ref=f18e1998]:
+                - button "React to review by Magdalena Sikora" [ref=f18e2001] [cursor=pointer]
+                - button "43 reactions. Expand reaction summary" [ref=f18e2006] [cursor=pointer]
+              - button "Share review by Magdalena Sikora" [ref=f18e2011]
+          - generic [ref=f18e2016]:
+            - generic [ref=f18e2017]:
+              - link "Paulina Papież Paulina Papież Local Guide16 reviews1 photo" [ref=f18e2018] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/118140188598235915330/reviews?hl=en-GB
+                - generic [ref=f18e2019]
+              - button "Review options for review by Paulina Papież" [ref=f18e2029] [cursor=pointer]
+            - generic [ref=f18e2034]: 2 years ago
+            - generic [ref=f18e2232]:
+              - generic [ref=f18e2233]: NIE POLECAM. Brak profesjonalizmu, niezbyt mądre odzywki podczas nauki jazd w stronę kursanta jak i innych ludzi. Niepotrzebne wypowiadanie się na temat wiary i upodobań innych. Instruktor chaotyczny, ciagłe rozmowy telefoniczne i kilkukrotne jazdy na stacje paliw w trakcie nauki jazd. W tle ciagle radio maryja… Gdy popełni się błąd na drodze to krzyk i niemile komentarze, że powinno się to już umieć. Demotywowanie, że nie ma możliwości zdania egzaminu państwowego praktycznego po 30 godzinach nauki jazd. Kilkukrotnie kończyłam jazdy ze łzami w oczach. Przy rezygnacji w trakcie kursu problem ze zwrotem nadpłaty, wmawianie, że w umowie jest inaczej.
+              - button "See translation (English)" [ref=f18e2237] [cursor=pointer]
+            - generic [ref=f18e2055]:
+              - generic [ref=f18e2056]:
+                - button "React to review by Paulina Papież" [ref=f18e2059] [cursor=pointer]
+                - button "30 reactions. Expand reaction summary" [ref=f18e2064] [cursor=pointer]
+              - button "Share review by Paulina Papież" [ref=f18e2069]
+          - generic [ref=f18e2074]:
+            - generic [ref=f18e2075]:
+              - link "Arkadiusz Winiarski Arkadiusz Winiarski Local Guide84 reviews8 photos" [ref=f18e2076] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/117810389579222150788/reviews?hl=en-GB
+                - generic [ref=f18e2077]
+              - button "Review options for review by Arkadiusz Winiarski" [ref=f18e2087] [cursor=pointer]
+            - generic [ref=f18e2092]: 4 years ago
+            - generic [ref=f18e2238]:
+              - generic [ref=f18e2239]: Najgorsza Szkoła jazdy w Krakowie, kurs kończyłem tam parę lat temu i musiałem odejść, bo ciągle było naciąganie na dodatkowe jazdy twierdzac, że nie jezdze jeszcze poprawnie i nie chciano mnie dopuscic do egzaminu. W innej szkole bez problemu byłem świetnie przygotowany i zdałem za pierwszym razem, Pan D to typowy naciągacz, który w godzinach jazd zajmuje się swoimi prywatnymi sprawami.
+              - button "See translation (English)" [ref=f18e2243] [cursor=pointer]
+            - generic [ref=f18e2113]:
+              - generic [ref=f18e2114]:
+                - button "React to review by Arkadiusz Winiarski" [ref=f18e2117] [cursor=pointer]
+                - button "43 reactions. Expand reaction summary" [ref=f18e2122] [cursor=pointer]
+              - button "Share review by Arkadiusz Winiarski" [ref=f18e2127]
+          - generic [ref=f18e2132]:
+            - generic [ref=f18e2133]:
+              - link "P P P P Local Guide18 reviews" [ref=f18e2134] [cursor=pointer]:
+                - /url: https://www.google.com/maps/contrib/106968084755312514535/reviews?hl=en-GB
+                - generic [ref=f18e2135]
+              - button "Review options for review by P P" [ref=f18e2145] [cursor=pointer]
+            - generic [ref=f18e2150]: 7 years ago
+            - generic [ref=f18e2244]:
+              - generic [ref=f18e2245]: Serdecznie nie polecam. Pan instruktor na każdej godzinie jazd jak i również na egzaminie wewnętrznym załatwia swoje sprawy prywatne telefonicznie. Praktycznie cały kurs(prócz 4 godzin) odbywał się toyota. Zaprezentowanie świateł zawnetrznych odbyło się w środku pojazdu. Po wykupieniu kilku godzin w innej szkole dowiedziałam się, że OSK Sprint Relax nie jeździłam nawet po połowie tras egzaminacyjnych. Radzę trzymać się z daleko od tej szkoły jeśli nie chcecie zmarnować czasu i pieniędzy.
+              - button "See translation (English)" [ref=f18e2249] [cursor=pointer]
+            - generic [ref=f18e2171]:
+              - generic [ref=f18e2172]:
+                - button "React to review by P P" [ref=f18e2175] [cursor=pointer]
+                - button "46 reactions. Expand reaction summary" [ref=f18e2180] [cursor=pointer]
+              - button "Share review by P P" [ref=f18e2185]
+```

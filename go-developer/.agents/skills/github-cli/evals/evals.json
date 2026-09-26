@@ -1,0 +1,23 @@
+{
+  "skill_name": "github-cli",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Push my current branch to GitHub and open a PR against main. If I'm not logged in to gh, stop and tell me what to do.",
+      "expected_output": "Checks gh auth first, inspects repo and branch state, uses git push, then gh pr create/status. Does not continue if gh auth fails.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "Pull latest changes from the GitHub remote for this repo. I may have local edits, so don't lose anything.",
+      "expected_output": "Checks gh auth and repo context, checks dirty worktree before pulling, fetches/prunes safely, uses fast-forward pull or asks about divergence/local changes.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Look at the failed GitHub Actions run for this branch and summarize the failing job logs. Don't rerun anything.",
+      "expected_output": "Checks gh auth, uses gh run list/view with failed logs, summarizes failure, and avoids rerun/cancel/dispatch actions.",
+      "files": []
+    }
+  ]
+}

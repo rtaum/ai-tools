@@ -1,0 +1,19 @@
+{
+  "id": "bad0e55f2",
+  "name": "Update extensions",
+  "command": "pi update --extensions",
+  "status": "completed",
+  "outputPath": ".pi/tasks/session-14454-14454/bad0e55f2.output",
+  "cwd": "/home/artyom-a/projects/ai-toolbox/dotnet developer",
+  "startTime": 1788786692641,
+  "endTime": 1788786696175,
+  "exitCode": 0,
+  "signal": null,
+  "pid": 14702,
+  "bytesWritten": 616,
+  "isAgent": false,
+  "notified": true,
+  "notifyOnCompletion": true,
+  "triggerOnCompletion": true,
+  "timeoutSeconds": 600
+}

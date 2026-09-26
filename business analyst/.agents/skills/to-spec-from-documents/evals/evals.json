@@ -1,0 +1,23 @@
+{
+  "skill_name": "to-spec-from-documents",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "/to-spec-from-documents Input: docs/requirements Output: docs/product-spec.md. Create the spec from the supplied documents.",
+      "expected_output": "Creates docs/product-spec.md using the required spec headings and grounds content in the input documents.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "/to-spec-from-documents Input: docs/requirements. Create the spec.",
+      "expected_output": "Stops and asks for the missing output spec path without guessing one.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "/to-spec-from-documents Input: docs/updated-requirements Output: docs/existing-spec.md. Update the existing spec with supported changes and preserve unrelated existing content.",
+      "expected_output": "Reads the existing spec, updates it from the documents, preserves unsupported existing content, and surfaces conflicts or gaps.",
+      "files": []
+    }
+  ]
+}
